@@ -1,362 +1,362 @@
 <svg height="5742" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="5742" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-17 12:38:44 +0000  7202099 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-17 12:38:44 +0000     4066 bytes  CONTRIBUTING.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-17 12:38:44 +0000     1093 bytes  LICENSE</tspan>
-<tspan x="10" y="74">  3.  2017-04-17 12:38:44 +0000     8698 bytes  README.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-17 12:38:44 +0000  1255950 bytes  dist/pixi.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-17 12:38:44 +0000  1564874 bytes  dist/pixi.js.map</tspan>
-<tspan x="10" y="122">  6.  2017-04-17 12:38:44 +0000   407096 bytes  dist/pixi.min.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-17 12:38:44 +0000  1477593 bytes  dist/pixi.min.js.map</tspan>
-<tspan x="10" y="154">  8.  2017-04-17 12:38:44 +0000    14638 bytes  lib/accessibility/AccessibilityManager.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-17 12:38:44 +0000    23403 bytes  lib/accessibility/AccessibilityManager.js.map</tspan>
-<tspan x="10" y="186"> 10.  2017-04-17 12:38:44 +0000     1147 bytes  lib/accessibility/accessibleTarget.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-17 12:38:44 +0000     1613 bytes  lib/accessibility/accessibleTarget.js.map</tspan>
-<tspan x="10" y="218"> 12.  2017-04-17 12:38:44 +0000      636 bytes  lib/accessibility/index.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-17 12:38:44 +0000      716 bytes  lib/accessibility/index.js.map</tspan>
-<tspan x="10" y="250"> 14.  2017-04-17 12:38:44 +0000     6834 bytes  lib/core/Application.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-17 12:38:44 +0000     7502 bytes  lib/core/Application.js.map</tspan>
-<tspan x="10" y="282"> 16.  2017-04-17 12:38:44 +0000     2509 bytes  lib/core/Shader.js</tspan>
-<tspan x="10" y="298"> 17.  2017-04-17 12:38:44 +0000     2138 bytes  lib/core/Shader.js.map</tspan>
-<tspan x="10" y="314"> 18.  2017-04-17 12:38:44 +0000     2616 bytes  lib/core/autoDetectRenderer.js</tspan>
-<tspan x="10" y="330"> 19.  2017-04-17 12:38:44 +0000     2636 bytes  lib/core/autoDetectRenderer.js.map</tspan>
-<tspan x="10" y="346"> 20.  2017-04-17 12:38:44 +0000     8273 bytes  lib/core/const.js</tspan>
-<tspan x="10" y="362"> 21.  2017-04-17 12:38:44 +0000    11252 bytes  lib/core/const.js.map</tspan>
-<tspan x="10" y="378"> 22.  2017-04-17 12:38:44 +0000     9138 bytes  lib/core/display/Bounds.js</tspan>
-<tspan x="10" y="394"> 23.  2017-04-17 12:38:44 +0000    16898 bytes  lib/core/display/Bounds.js.map</tspan>
-<tspan x="10" y="410"> 24.  2017-04-17 12:38:44 +0000    19993 bytes  lib/core/display/Container.js</tspan>
-<tspan x="10" y="426"> 25.  2017-04-17 12:38:44 +0000    27722 bytes  lib/core/display/Container.js.map</tspan>
-<tspan x="10" y="442"> 26.  2017-04-17 12:38:44 +0000    22105 bytes  lib/core/display/DisplayObject.js</tspan>
-<tspan x="10" y="458"> 27.  2017-04-17 12:38:44 +0000    25665 bytes  lib/core/display/DisplayObject.js.map</tspan>
-<tspan x="10" y="474"> 28.  2017-04-17 12:38:44 +0000     5825 bytes  lib/core/display/Transform.js</tspan>
-<tspan x="10" y="490"> 29.  2017-04-17 12:38:44 +0000     7634 bytes  lib/core/display/Transform.js.map</tspan>
-<tspan x="10" y="506"> 30.  2017-04-17 12:38:44 +0000     2180 bytes  lib/core/display/TransformBase.js</tspan>
-<tspan x="10" y="522"> 31.  2017-04-17 12:38:44 +0000     3403 bytes  lib/core/display/TransformBase.js.map</tspan>
-<tspan x="10" y="538"> 32.  2017-04-17 12:38:44 +0000     7283 bytes  lib/core/display/TransformStatic.js</tspan>
-<tspan x="10" y="554"> 33.  2017-04-17 12:38:44 +0000     9246 bytes  lib/core/display/TransformStatic.js.map</tspan>
-<tspan x="10" y="570"> 34.  2017-04-17 12:38:44 +0000    36568 bytes  lib/core/graphics/Graphics.js</tspan>
-<tspan x="10" y="586"> 35.  2017-04-17 12:38:44 +0000    56226 bytes  lib/core/graphics/Graphics.js.map</tspan>
-<tspan x="10" y="602"> 36.  2017-04-17 12:38:44 +0000     3129 bytes  lib/core/graphics/GraphicsData.js</tspan>
-<tspan x="10" y="618"> 37.  2017-04-17 12:38:44 +0000     4432 bytes  lib/core/graphics/GraphicsData.js.map</tspan>
-<tspan x="10" y="634"> 38.  2017-04-17 12:38:44 +0000    10328 bytes  lib/core/graphics/canvas/CanvasGraphicsRenderer.\</tspan>
+<tspan x="10" y="26">  0.  2017-04-17 12:39:47 +0000  7202099 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-17 12:39:47 +0000     4066 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-17 12:39:47 +0000     1093 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-17 12:39:47 +0000     8698 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-17 12:39:47 +0000  1255950 bytes  dist/pixi.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-17 12:39:47 +0000  1564874 bytes  dist/pixi.js.map</tspan>
+<tspan x="10" y="122">  6.  2017-04-17 12:39:47 +0000   407096 bytes  dist/pixi.min.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-17 12:39:47 +0000  1477593 bytes  dist/pixi.min.js.map</tspan>
+<tspan x="10" y="154">  8.  2017-04-17 12:39:47 +0000    14638 bytes  lib/accessibility/AccessibilityManager.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-17 12:39:47 +0000    23403 bytes  lib/accessibility/AccessibilityManager.js.map</tspan>
+<tspan x="10" y="186"> 10.  2017-04-17 12:39:47 +0000     1147 bytes  lib/accessibility/accessibleTarget.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-17 12:39:47 +0000     1613 bytes  lib/accessibility/accessibleTarget.js.map</tspan>
+<tspan x="10" y="218"> 12.  2017-04-17 12:39:47 +0000      636 bytes  lib/accessibility/index.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-17 12:39:47 +0000      716 bytes  lib/accessibility/index.js.map</tspan>
+<tspan x="10" y="250"> 14.  2017-04-17 12:39:47 +0000     6834 bytes  lib/core/Application.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-17 12:39:47 +0000     7502 bytes  lib/core/Application.js.map</tspan>
+<tspan x="10" y="282"> 16.  2017-04-17 12:39:47 +0000     2509 bytes  lib/core/Shader.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-17 12:39:47 +0000     2138 bytes  lib/core/Shader.js.map</tspan>
+<tspan x="10" y="314"> 18.  2017-04-17 12:39:47 +0000     2616 bytes  lib/core/autoDetectRenderer.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-17 12:39:47 +0000     2636 bytes  lib/core/autoDetectRenderer.js.map</tspan>
+<tspan x="10" y="346"> 20.  2017-04-17 12:39:47 +0000     8273 bytes  lib/core/const.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-17 12:39:47 +0000    11252 bytes  lib/core/const.js.map</tspan>
+<tspan x="10" y="378"> 22.  2017-04-17 12:39:47 +0000     9138 bytes  lib/core/display/Bounds.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-17 12:39:47 +0000    16898 bytes  lib/core/display/Bounds.js.map</tspan>
+<tspan x="10" y="410"> 24.  2017-04-17 12:39:47 +0000    19993 bytes  lib/core/display/Container.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-17 12:39:47 +0000    27722 bytes  lib/core/display/Container.js.map</tspan>
+<tspan x="10" y="442"> 26.  2017-04-17 12:39:47 +0000    22105 bytes  lib/core/display/DisplayObject.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-17 12:39:47 +0000    25665 bytes  lib/core/display/DisplayObject.js.map</tspan>
+<tspan x="10" y="474"> 28.  2017-04-17 12:39:47 +0000     5825 bytes  lib/core/display/Transform.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-17 12:39:47 +0000     7634 bytes  lib/core/display/Transform.js.map</tspan>
+<tspan x="10" y="506"> 30.  2017-04-17 12:39:47 +0000     2180 bytes  lib/core/display/TransformBase.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-17 12:39:47 +0000     3403 bytes  lib/core/display/TransformBase.js.map</tspan>
+<tspan x="10" y="538"> 32.  2017-04-17 12:39:47 +0000     7283 bytes  lib/core/display/TransformStatic.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-17 12:39:47 +0000     9246 bytes  lib/core/display/TransformStatic.js.map</tspan>
+<tspan x="10" y="570"> 34.  2017-04-17 12:39:47 +0000    36568 bytes  lib/core/graphics/Graphics.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-17 12:39:47 +0000    56226 bytes  lib/core/graphics/Graphics.js.map</tspan>
+<tspan x="10" y="602"> 36.  2017-04-17 12:39:47 +0000     3129 bytes  lib/core/graphics/GraphicsData.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-17 12:39:47 +0000     4432 bytes  lib/core/graphics/GraphicsData.js.map</tspan>
+<tspan x="10" y="634"> 38.  2017-04-17 12:39:47 +0000    10328 bytes  lib/core/graphics/canvas/CanvasGraphicsRenderer.\</tspan>
 <tspan x="10" y="650">js</tspan>
-<tspan x="10" y="666"> 39.  2017-04-17 12:38:44 +0000    19163 bytes  lib/core/graphics/canvas/CanvasGraphicsRenderer.\</tspan>
+<tspan x="10" y="666"> 39.  2017-04-17 12:39:47 +0000    19163 bytes  lib/core/graphics/canvas/CanvasGraphicsRenderer.\</tspan>
 <tspan x="10" y="682">js.map</tspan>
-<tspan x="10" y="698"> 40.  2017-04-17 12:38:44 +0000     1366 bytes  lib/core/graphics/utils/bezierCurveTo.js</tspan>
-<tspan x="10" y="714"> 41.  2017-04-17 12:38:44 +0000     2432 bytes  lib/core/graphics/utils/bezierCurveTo.js.map</tspan>
-<tspan x="10" y="730"> 42.  2017-04-17 12:38:44 +0000     8510 bytes  lib/core/graphics/webgl/GraphicsRenderer.js</tspan>
-<tspan x="10" y="746"> 43.  2017-04-17 12:38:44 +0000    11398 bytes  lib/core/graphics/webgl/GraphicsRenderer.js.map</tspan>
-<tspan x="10" y="762"> 44.  2017-04-17 12:38:44 +0000     3206 bytes  lib/core/graphics/webgl/WebGLGraphicsData.js</tspan>
-<tspan x="10" y="778"> 45.  2017-04-17 12:38:44 +0000     5104 bytes  lib/core/graphics/webgl/WebGLGraphicsData.js.map</tspan>
-<tspan x="10" y="794"> 46.  2017-04-17 12:38:44 +0000     2312 bytes  lib/core/graphics/webgl/shaders/PrimitiveShader.\</tspan>
+<tspan x="10" y="698"> 40.  2017-04-17 12:39:47 +0000     1366 bytes  lib/core/graphics/utils/bezierCurveTo.js</tspan>
+<tspan x="10" y="714"> 41.  2017-04-17 12:39:47 +0000     2432 bytes  lib/core/graphics/utils/bezierCurveTo.js.map</tspan>
+<tspan x="10" y="730"> 42.  2017-04-17 12:39:47 +0000     8510 bytes  lib/core/graphics/webgl/GraphicsRenderer.js</tspan>
+<tspan x="10" y="746"> 43.  2017-04-17 12:39:47 +0000    11398 bytes  lib/core/graphics/webgl/GraphicsRenderer.js.map</tspan>
+<tspan x="10" y="762"> 44.  2017-04-17 12:39:47 +0000     3206 bytes  lib/core/graphics/webgl/WebGLGraphicsData.js</tspan>
+<tspan x="10" y="778"> 45.  2017-04-17 12:39:47 +0000     5104 bytes  lib/core/graphics/webgl/WebGLGraphicsData.js.map</tspan>
+<tspan x="10" y="794"> 46.  2017-04-17 12:39:47 +0000     2312 bytes  lib/core/graphics/webgl/shaders/PrimitiveShader.\</tspan>
 <tspan x="10" y="810">js</tspan>
-<tspan x="10" y="826"> 47.  2017-04-17 12:38:44 +0000     1866 bytes  lib/core/graphics/webgl/shaders/PrimitiveShader.\</tspan>
+<tspan x="10" y="826"> 47.  2017-04-17 12:39:47 +0000     1866 bytes  lib/core/graphics/webgl/shaders/PrimitiveShader.\</tspan>
 <tspan x="10" y="842">js.map</tspan>
-<tspan x="10" y="858"> 48.  2017-04-17 12:38:44 +0000     2500 bytes  lib/core/graphics/webgl/utils/buildCircle.js</tspan>
-<tspan x="10" y="874"> 49.  2017-04-17 12:38:44 +0000     4780 bytes  lib/core/graphics/webgl/utils/buildCircle.js.map</tspan>
-<tspan x="10" y="890"> 50.  2017-04-17 12:38:44 +0000     1731 bytes  lib/core/graphics/webgl/utils/buildComplexPoly.j\</tspan>
+<tspan x="10" y="858"> 48.  2017-04-17 12:39:47 +0000     2500 bytes  lib/core/graphics/webgl/utils/buildCircle.js</tspan>
+<tspan x="10" y="874"> 49.  2017-04-17 12:39:47 +0000     4780 bytes  lib/core/graphics/webgl/utils/buildCircle.js.map</tspan>
+<tspan x="10" y="890"> 50.  2017-04-17 12:39:47 +0000     1731 bytes  lib/core/graphics/webgl/utils/buildComplexPoly.j\</tspan>
 <tspan x="10" y="906">s</tspan>
-<tspan x="10" y="922"> 51.  2017-04-17 12:38:44 +0000     3179 bytes  lib/core/graphics/webgl/utils/buildComplexPoly.j\</tspan>
+<tspan x="10" y="922"> 51.  2017-04-17 12:39:47 +0000     3179 bytes  lib/core/graphics/webgl/utils/buildComplexPoly.j\</tspan>
 <tspan x="10" y="938">s.map</tspan>
-<tspan x="10" y="954"> 52.  2017-04-17 12:38:44 +0000     7422 bytes  lib/core/graphics/webgl/utils/buildLine.js</tspan>
-<tspan x="10" y="970"> 53.  2017-04-17 12:38:44 +0000    15343 bytes  lib/core/graphics/webgl/utils/buildLine.js.map</tspan>
-<tspan x="10" y="986"> 54.  2017-04-17 12:38:44 +0000     2420 bytes  lib/core/graphics/webgl/utils/buildPoly.js</tspan>
-<tspan x="10" y="1002"> 55.  2017-04-17 12:38:44 +0000     4175 bytes  lib/core/graphics/webgl/utils/buildPoly.js.map</tspan>
-<tspan x="10" y="1018"> 56.  2017-04-17 12:38:44 +0000     2063 bytes  lib/core/graphics/webgl/utils/buildRectangle.js</tspan>
-<tspan x="10" y="1034"> 57.  2017-04-17 12:38:44 +0000     3780 bytes  lib/core/graphics/webgl/utils/buildRectangle.js.\</tspan>
+<tspan x="10" y="954"> 52.  2017-04-17 12:39:47 +0000     7422 bytes  lib/core/graphics/webgl/utils/buildLine.js</tspan>
+<tspan x="10" y="970"> 53.  2017-04-17 12:39:47 +0000    15343 bytes  lib/core/graphics/webgl/utils/buildLine.js.map</tspan>
+<tspan x="10" y="986"> 54.  2017-04-17 12:39:47 +0000     2420 bytes  lib/core/graphics/webgl/utils/buildPoly.js</tspan>
+<tspan x="10" y="1002"> 55.  2017-04-17 12:39:47 +0000     4175 bytes  lib/core/graphics/webgl/utils/buildPoly.js.map</tspan>
+<tspan x="10" y="1018"> 56.  2017-04-17 12:39:47 +0000     2063 bytes  lib/core/graphics/webgl/utils/buildRectangle.js</tspan>
+<tspan x="10" y="1034"> 57.  2017-04-17 12:39:47 +0000     3780 bytes  lib/core/graphics/webgl/utils/buildRectangle.js.\</tspan>
 <tspan x="10" y="1050">map</tspan>
-<tspan x="10" y="1066"> 58.  2017-04-17 12:38:44 +0000     4623 bytes  lib/core/graphics/webgl/utils/buildRoundedRectan\</tspan>
+<tspan x="10" y="1066"> 58.  2017-04-17 12:39:47 +0000     4623 bytes  lib/core/graphics/webgl/utils/buildRoundedRectan\</tspan>
 <tspan x="10" y="1082">gle.js</tspan>
-<tspan x="10" y="1098"> 59.  2017-04-17 12:38:44 +0000     7966 bytes  lib/core/graphics/webgl/utils/buildRoundedRectan\</tspan>
+<tspan x="10" y="1098"> 59.  2017-04-17 12:39:47 +0000     7966 bytes  lib/core/graphics/webgl/utils/buildRoundedRectan\</tspan>
 <tspan x="10" y="1114">gle.js.map</tspan>
-<tspan x="10" y="1130"> 60.  2017-04-17 12:38:44 +0000    10337 bytes  lib/core/index.js</tspan>
-<tspan x="10" y="1146"> 61.  2017-04-17 12:38:44 +0000     3850 bytes  lib/core/index.js.map</tspan>
-<tspan x="10" y="1162"> 62.  2017-04-17 12:38:44 +0000     5158 bytes  lib/core/math/GroupD8.js</tspan>
-<tspan x="10" y="1178"> 63.  2017-04-17 12:38:44 +0000     9476 bytes  lib/core/math/GroupD8.js.map</tspan>
-<tspan x="10" y="1194"> 64.  2017-04-17 12:38:44 +0000    14790 bytes  lib/core/math/Matrix.js</tspan>
-<tspan x="10" y="1210"> 65.  2017-04-17 12:38:44 +0000    22700 bytes  lib/core/math/Matrix.js.map</tspan>
-<tspan x="10" y="1226"> 66.  2017-04-17 12:38:44 +0000     3735 bytes  lib/core/math/ObservablePoint.js</tspan>
-<tspan x="10" y="1242"> 67.  2017-04-17 12:38:44 +0000     3900 bytes  lib/core/math/ObservablePoint.js.map</tspan>
-<tspan x="10" y="1258"> 68.  2017-04-17 12:38:44 +0000     2050 bytes  lib/core/math/Point.js</tspan>
-<tspan x="10" y="1274"> 69.  2017-04-17 12:38:44 +0000     2510 bytes  lib/core/math/Point.js.map</tspan>
-<tspan x="10" y="1290"> 70.  2017-04-17 12:38:44 +0000     1957 bytes  lib/core/math/index.js</tspan>
-<tspan x="10" y="1306"> 71.  2017-04-17 12:38:44 +0000      882 bytes  lib/core/math/index.js.map</tspan>
-<tspan x="10" y="1322"> 72.  2017-04-17 12:38:44 +0000     2749 bytes  lib/core/math/shapes/Circle.js</tspan>
-<tspan x="10" y="1338"> 73.  2017-04-17 12:38:44 +0000     3376 bytes  lib/core/math/shapes/Circle.js.map</tspan>
-<tspan x="10" y="1354"> 74.  2017-04-17 12:38:44 +0000     3099 bytes  lib/core/math/shapes/Ellipse.js</tspan>
-<tspan x="10" y="1370"> 75.  2017-04-17 12:38:44 +0000     3767 bytes  lib/core/math/shapes/Ellipse.js.map</tspan>
-<tspan x="10" y="1386"> 76.  2017-04-17 12:38:44 +0000     3734 bytes  lib/core/math/shapes/Polygon.js</tspan>
-<tspan x="10" y="1402"> 77.  2017-04-17 12:38:44 +0000     5102 bytes  lib/core/math/shapes/Polygon.js.map</tspan>
-<tspan x="10" y="1418"> 78.  2017-04-17 12:38:44 +0000     7124 bytes  lib/core/math/shapes/Rectangle.js</tspan>
-<tspan x="10" y="1434"> 79.  2017-04-17 12:38:44 +0000     8965 bytes  lib/core/math/shapes/Rectangle.js.map</tspan>
-<tspan x="10" y="1450"> 80.  2017-04-17 12:38:44 +0000     4293 bytes  lib/core/math/shapes/RoundedRectangle.js</tspan>
-<tspan x="10" y="1466"> 81.  2017-04-17 12:38:44 +0000     5762 bytes  lib/core/math/shapes/RoundedRectangle.js.map</tspan>
-<tspan x="10" y="1482"> 82.  2017-04-17 12:38:44 +0000    11755 bytes  lib/core/renderers/SystemRenderer.js</tspan>
-<tspan x="10" y="1498"> 83.  2017-04-17 12:38:44 +0000    14416 bytes  lib/core/renderers/SystemRenderer.js.map</tspan>
-<tspan x="10" y="1514"> 84.  2017-04-17 12:38:44 +0000    12700 bytes  lib/core/renderers/canvas/CanvasRenderer.js</tspan>
-<tspan x="10" y="1530"> 85.  2017-04-17 12:38:44 +0000    16776 bytes  lib/core/renderers/canvas/CanvasRenderer.js.map</tspan>
-<tspan x="10" y="1546"> 86.  2017-04-17 12:38:44 +0000     5723 bytes  lib/core/renderers/canvas/utils/CanvasMaskManage\</tspan>
+<tspan x="10" y="1130"> 60.  2017-04-17 12:39:47 +0000    10337 bytes  lib/core/index.js</tspan>
+<tspan x="10" y="1146"> 61.  2017-04-17 12:39:47 +0000     3850 bytes  lib/core/index.js.map</tspan>
+<tspan x="10" y="1162"> 62.  2017-04-17 12:39:47 +0000     5158 bytes  lib/core/math/GroupD8.js</tspan>
+<tspan x="10" y="1178"> 63.  2017-04-17 12:39:47 +0000     9476 bytes  lib/core/math/GroupD8.js.map</tspan>
+<tspan x="10" y="1194"> 64.  2017-04-17 12:39:47 +0000    14790 bytes  lib/core/math/Matrix.js</tspan>
+<tspan x="10" y="1210"> 65.  2017-04-17 12:39:47 +0000    22700 bytes  lib/core/math/Matrix.js.map</tspan>
+<tspan x="10" y="1226"> 66.  2017-04-17 12:39:47 +0000     3735 bytes  lib/core/math/ObservablePoint.js</tspan>
+<tspan x="10" y="1242"> 67.  2017-04-17 12:39:47 +0000     3900 bytes  lib/core/math/ObservablePoint.js.map</tspan>
+<tspan x="10" y="1258"> 68.  2017-04-17 12:39:47 +0000     2050 bytes  lib/core/math/Point.js</tspan>
+<tspan x="10" y="1274"> 69.  2017-04-17 12:39:47 +0000     2510 bytes  lib/core/math/Point.js.map</tspan>
+<tspan x="10" y="1290"> 70.  2017-04-17 12:39:47 +0000     1957 bytes  lib/core/math/index.js</tspan>
+<tspan x="10" y="1306"> 71.  2017-04-17 12:39:47 +0000      882 bytes  lib/core/math/index.js.map</tspan>
+<tspan x="10" y="1322"> 72.  2017-04-17 12:39:47 +0000     2749 bytes  lib/core/math/shapes/Circle.js</tspan>
+<tspan x="10" y="1338"> 73.  2017-04-17 12:39:47 +0000     3376 bytes  lib/core/math/shapes/Circle.js.map</tspan>
+<tspan x="10" y="1354"> 74.  2017-04-17 12:39:47 +0000     3099 bytes  lib/core/math/shapes/Ellipse.js</tspan>
+<tspan x="10" y="1370"> 75.  2017-04-17 12:39:47 +0000     3767 bytes  lib/core/math/shapes/Ellipse.js.map</tspan>
+<tspan x="10" y="1386"> 76.  2017-04-17 12:39:47 +0000     3734 bytes  lib/core/math/shapes/Polygon.js</tspan>
+<tspan x="10" y="1402"> 77.  2017-04-17 12:39:47 +0000     5102 bytes  lib/core/math/shapes/Polygon.js.map</tspan>
+<tspan x="10" y="1418"> 78.  2017-04-17 12:39:47 +0000     7124 bytes  lib/core/math/shapes/Rectangle.js</tspan>
+<tspan x="10" y="1434"> 79.  2017-04-17 12:39:47 +0000     8965 bytes  lib/core/math/shapes/Rectangle.js.map</tspan>
+<tspan x="10" y="1450"> 80.  2017-04-17 12:39:47 +0000     4293 bytes  lib/core/math/shapes/RoundedRectangle.js</tspan>
+<tspan x="10" y="1466"> 81.  2017-04-17 12:39:47 +0000     5762 bytes  lib/core/math/shapes/RoundedRectangle.js.map</tspan>
+<tspan x="10" y="1482"> 82.  2017-04-17 12:39:47 +0000    11755 bytes  lib/core/renderers/SystemRenderer.js</tspan>
+<tspan x="10" y="1498"> 83.  2017-04-17 12:39:47 +0000    14416 bytes  lib/core/renderers/SystemRenderer.js.map</tspan>
+<tspan x="10" y="1514"> 84.  2017-04-17 12:39:47 +0000    12700 bytes  lib/core/renderers/canvas/CanvasRenderer.js</tspan>
+<tspan x="10" y="1530"> 85.  2017-04-17 12:39:47 +0000    16776 bytes  lib/core/renderers/canvas/CanvasRenderer.js.map</tspan>
+<tspan x="10" y="1546"> 86.  2017-04-17 12:39:47 +0000     5723 bytes  lib/core/renderers/canvas/utils/CanvasMaskManage\</tspan>
 <tspan x="10" y="1562">r.js</tspan>
-<tspan x="10" y="1578"> 87.  2017-04-17 12:38:44 +0000    10455 bytes  lib/core/renderers/canvas/utils/CanvasMaskManage\</tspan>
+<tspan x="10" y="1578"> 87.  2017-04-17 12:39:47 +0000    10455 bytes  lib/core/renderers/canvas/utils/CanvasMaskManage\</tspan>
 <tspan x="10" y="1594">r.js.map</tspan>
-<tspan x="10" y="1610"> 88.  2017-04-17 12:38:44 +0000     3489 bytes  lib/core/renderers/canvas/utils/CanvasRenderTarg\</tspan>
+<tspan x="10" y="1610"> 88.  2017-04-17 12:39:47 +0000     3489 bytes  lib/core/renderers/canvas/utils/CanvasRenderTarg\</tspan>
 <tspan x="10" y="1626">et.js</tspan>
-<tspan x="10" y="1642"> 89.  2017-04-17 12:38:44 +0000     3806 bytes  lib/core/renderers/canvas/utils/CanvasRenderTarg\</tspan>
+<tspan x="10" y="1642"> 89.  2017-04-17 12:39:47 +0000     3806 bytes  lib/core/renderers/canvas/utils/CanvasRenderTarg\</tspan>
 <tspan x="10" y="1658">et.js.map</tspan>
-<tspan x="10" y="1674"> 90.  2017-04-17 12:38:44 +0000     1382 bytes  lib/core/renderers/canvas/utils/canUseNewCanvasB\</tspan>
+<tspan x="10" y="1674"> 90.  2017-04-17 12:39:47 +0000     1382 bytes  lib/core/renderers/canvas/utils/canUseNewCanvasB\</tspan>
 <tspan x="10" y="1690">lendModes.js</tspan>
-<tspan x="10" y="1706"> 91.  2017-04-17 12:38:44 +0000     2811 bytes  lib/core/renderers/canvas/utils/canUseNewCanvasB\</tspan>
+<tspan x="10" y="1706"> 91.  2017-04-17 12:39:47 +0000     2811 bytes  lib/core/renderers/canvas/utils/canUseNewCanvasB\</tspan>
 <tspan x="10" y="1722">lendModes.js.map</tspan>
-<tspan x="10" y="1738"> 92.  2017-04-17 12:38:44 +0000     2997 bytes  lib/core/renderers/canvas/utils/mapCanvasBlendMo\</tspan>
+<tspan x="10" y="1738"> 92.  2017-04-17 12:39:47 +0000     2997 bytes  lib/core/renderers/canvas/utils/mapCanvasBlendMo\</tspan>
 <tspan x="10" y="1754">desToPixi.js</tspan>
-<tspan x="10" y="1770"> 93.  2017-04-17 12:38:44 +0000     4255 bytes  lib/core/renderers/canvas/utils/mapCanvasBlendMo\</tspan>
+<tspan x="10" y="1770"> 93.  2017-04-17 12:39:47 +0000     4255 bytes  lib/core/renderers/canvas/utils/mapCanvasBlendMo\</tspan>
 <tspan x="10" y="1786">desToPixi.js.map</tspan>
-<tspan x="10" y="1802"> 94.  2017-04-17 12:38:44 +0000     3578 bytes  lib/core/renderers/webgl/TextureGarbageCollector\</tspan>
+<tspan x="10" y="1802"> 94.  2017-04-17 12:39:47 +0000     3578 bytes  lib/core/renderers/webgl/TextureGarbageCollector\</tspan>
 <tspan x="10" y="1818">.js</tspan>
-<tspan x="10" y="1834"> 95.  2017-04-17 12:38:44 +0000     5108 bytes  lib/core/renderers/webgl/TextureGarbageCollector\</tspan>
+<tspan x="10" y="1834"> 95.  2017-04-17 12:39:47 +0000     5108 bytes  lib/core/renderers/webgl/TextureGarbageCollector\</tspan>
 <tspan x="10" y="1850">.js.map</tspan>
-<tspan x="10" y="1866"> 96.  2017-04-17 12:38:44 +0000     7366 bytes  lib/core/renderers/webgl/TextureManager.js</tspan>
-<tspan x="10" y="1882"> 97.  2017-04-17 12:38:44 +0000    11766 bytes  lib/core/renderers/webgl/TextureManager.js.map</tspan>
-<tspan x="10" y="1898"> 98.  2017-04-17 12:38:44 +0000    25911 bytes  lib/core/renderers/webgl/WebGLRenderer.js</tspan>
-<tspan x="10" y="1914"> 99.  2017-04-17 12:38:44 +0000    35044 bytes  lib/core/renderers/webgl/WebGLRenderer.js.map</tspan>
-<tspan x="10" y="1930">100.  2017-04-17 12:38:44 +0000     6772 bytes  lib/core/renderers/webgl/WebGLState.js</tspan>
-<tspan x="10" y="1946">101.  2017-04-17 12:38:44 +0000    10648 bytes  lib/core/renderers/webgl/WebGLState.js.map</tspan>
-<tspan x="10" y="1962">102.  2017-04-17 12:38:44 +0000     6250 bytes  lib/core/renderers/webgl/filters/Filter.js</tspan>
-<tspan x="10" y="1978">103.  2017-04-17 12:38:44 +0000     7944 bytes  lib/core/renderers/webgl/filters/Filter.js.map</tspan>
-<tspan x="10" y="1994">104.  2017-04-17 12:38:44 +0000     1770 bytes  lib/core/renderers/webgl/filters/extractUniforms\</tspan>
+<tspan x="10" y="1866"> 96.  2017-04-17 12:39:47 +0000     7366 bytes  lib/core/renderers/webgl/TextureManager.js</tspan>
+<tspan x="10" y="1882"> 97.  2017-04-17 12:39:47 +0000    11766 bytes  lib/core/renderers/webgl/TextureManager.js.map</tspan>
+<tspan x="10" y="1898"> 98.  2017-04-17 12:39:47 +0000    25911 bytes  lib/core/renderers/webgl/WebGLRenderer.js</tspan>
+<tspan x="10" y="1914"> 99.  2017-04-17 12:39:47 +0000    35044 bytes  lib/core/renderers/webgl/WebGLRenderer.js.map</tspan>
+<tspan x="10" y="1930">100.  2017-04-17 12:39:47 +0000     6772 bytes  lib/core/renderers/webgl/WebGLState.js</tspan>
+<tspan x="10" y="1946">101.  2017-04-17 12:39:47 +0000    10648 bytes  lib/core/renderers/webgl/WebGLState.js.map</tspan>
+<tspan x="10" y="1962">102.  2017-04-17 12:39:47 +0000     6250 bytes  lib/core/renderers/webgl/filters/Filter.js</tspan>
+<tspan x="10" y="1978">103.  2017-04-17 12:39:47 +0000     7944 bytes  lib/core/renderers/webgl/filters/Filter.js.map</tspan>
+<tspan x="10" y="1994">104.  2017-04-17 12:39:47 +0000     1770 bytes  lib/core/renderers/webgl/filters/extractUniforms\</tspan>
 <tspan x="10" y="2010">FromSrc.js</tspan>
-<tspan x="10" y="2026">105.  2017-04-17 12:38:44 +0000     3258 bytes  lib/core/renderers/webgl/filters/extractUniforms\</tspan>
+<tspan x="10" y="2026">105.  2017-04-17 12:39:47 +0000     3258 bytes  lib/core/renderers/webgl/filters/extractUniforms\</tspan>
 <tspan x="10" y="2042">FromSrc.js.map</tspan>
-<tspan x="10" y="2058">106.  2017-04-17 12:38:44 +0000     2865 bytes  lib/core/renderers/webgl/filters/filterTransform\</tspan>
+<tspan x="10" y="2058">106.  2017-04-17 12:39:47 +0000     2865 bytes  lib/core/renderers/webgl/filters/filterTransform\</tspan>
 <tspan x="10" y="2074">s.js</tspan>
-<tspan x="10" y="2090">107.  2017-04-17 12:38:44 +0000     4837 bytes  lib/core/renderers/webgl/filters/filterTransform\</tspan>
+<tspan x="10" y="2090">107.  2017-04-17 12:39:47 +0000     4837 bytes  lib/core/renderers/webgl/filters/filterTransform\</tspan>
 <tspan x="10" y="2106">s.js.map</tspan>
-<tspan x="10" y="2122">108.  2017-04-17 12:38:44 +0000     3548 bytes  lib/core/renderers/webgl/filters/spriteMask/Spri\</tspan>
+<tspan x="10" y="2122">108.  2017-04-17 12:39:47 +0000     3548 bytes  lib/core/renderers/webgl/filters/spriteMask/Spri\</tspan>
 <tspan x="10" y="2138">teMaskFilter.js</tspan>
-<tspan x="10" y="2154">109.  2017-04-17 12:38:44 +0000     2378 bytes  lib/core/renderers/webgl/filters/spriteMask/Spri\</tspan>
+<tspan x="10" y="2154">109.  2017-04-17 12:39:47 +0000     2378 bytes  lib/core/renderers/webgl/filters/spriteMask/Spri\</tspan>
 <tspan x="10" y="2170">teMaskFilter.js.map</tspan>
-<tspan x="10" y="2186">110.  2017-04-17 12:38:44 +0000     2441 bytes  lib/core/renderers/webgl/managers/BlendModeManag\</tspan>
+<tspan x="10" y="2186">110.  2017-04-17 12:39:47 +0000     2441 bytes  lib/core/renderers/webgl/managers/BlendModeManag\</tspan>
 <tspan x="10" y="2202">er.js</tspan>
-<tspan x="10" y="2218">111.  2017-04-17 12:38:44 +0000     1866 bytes  lib/core/renderers/webgl/managers/BlendModeManag\</tspan>
+<tspan x="10" y="2218">111.  2017-04-17 12:39:47 +0000     1866 bytes  lib/core/renderers/webgl/managers/BlendModeManag\</tspan>
 <tspan x="10" y="2234">er.js.map</tspan>
-<tspan x="10" y="2250">112.  2017-04-17 12:38:44 +0000    20374 bytes  lib/core/renderers/webgl/managers/FilterManager.\</tspan>
+<tspan x="10" y="2250">112.  2017-04-17 12:39:47 +0000    20374 bytes  lib/core/renderers/webgl/managers/FilterManager.\</tspan>
 <tspan x="10" y="2266">js</tspan>
-<tspan x="10" y="2282">113.  2017-04-17 12:38:44 +0000    31799 bytes  lib/core/renderers/webgl/managers/FilterManager.\</tspan>
+<tspan x="10" y="2282">113.  2017-04-17 12:39:47 +0000    31799 bytes  lib/core/renderers/webgl/managers/FilterManager.\</tspan>
 <tspan x="10" y="2298">js.map</tspan>
-<tspan x="10" y="2314">114.  2017-04-17 12:38:44 +0000     6966 bytes  lib/core/renderers/webgl/managers/MaskManager.js</tspan>
-<tspan x="10" y="2330">115.  2017-04-17 12:38:44 +0000     9480 bytes  lib/core/renderers/webgl/managers/MaskManager.js\</tspan>
+<tspan x="10" y="2314">114.  2017-04-17 12:39:47 +0000     6966 bytes  lib/core/renderers/webgl/managers/MaskManager.js</tspan>
+<tspan x="10" y="2330">115.  2017-04-17 12:39:47 +0000     9480 bytes  lib/core/renderers/webgl/managers/MaskManager.js\</tspan>
 <tspan x="10" y="2346">.map</tspan>
-<tspan x="10" y="2362">116.  2017-04-17 12:38:44 +0000     4221 bytes  lib/core/renderers/webgl/managers/StencilManager\</tspan>
+<tspan x="10" y="2362">116.  2017-04-17 12:39:47 +0000     4221 bytes  lib/core/renderers/webgl/managers/StencilManager\</tspan>
 <tspan x="10" y="2378">.js</tspan>
-<tspan x="10" y="2394">117.  2017-04-17 12:38:44 +0000     5485 bytes  lib/core/renderers/webgl/managers/StencilManager\</tspan>
+<tspan x="10" y="2394">117.  2017-04-17 12:39:47 +0000     5485 bytes  lib/core/renderers/webgl/managers/StencilManager\</tspan>
 <tspan x="10" y="2410">.js.map</tspan>
-<tspan x="10" y="2426">118.  2017-04-17 12:38:44 +0000     1158 bytes  lib/core/renderers/webgl/managers/WebGLManager.j\</tspan>
+<tspan x="10" y="2426">118.  2017-04-17 12:39:47 +0000     1158 bytes  lib/core/renderers/webgl/managers/WebGLManager.j\</tspan>
 <tspan x="10" y="2442">s</tspan>
-<tspan x="10" y="2458">119.  2017-04-17 12:38:44 +0000     1424 bytes  lib/core/renderers/webgl/managers/WebGLManager.j\</tspan>
+<tspan x="10" y="2458">119.  2017-04-17 12:39:47 +0000     1424 bytes  lib/core/renderers/webgl/managers/WebGLManager.j\</tspan>
 <tspan x="10" y="2474">s.map</tspan>
-<tspan x="10" y="2490">120.  2017-04-17 12:38:44 +0000     2354 bytes  lib/core/renderers/webgl/utils/ObjectRenderer.js</tspan>
-<tspan x="10" y="2506">121.  2017-04-17 12:38:44 +0000     1341 bytes  lib/core/renderers/webgl/utils/ObjectRenderer.js\</tspan>
+<tspan x="10" y="2490">120.  2017-04-17 12:39:47 +0000     2354 bytes  lib/core/renderers/webgl/utils/ObjectRenderer.js</tspan>
+<tspan x="10" y="2506">121.  2017-04-17 12:39:47 +0000     1341 bytes  lib/core/renderers/webgl/utils/ObjectRenderer.js\</tspan>
 <tspan x="10" y="2522">.map</tspan>
-<tspan x="10" y="2538">122.  2017-04-17 12:38:44 +0000     4718 bytes  lib/core/renderers/webgl/utils/Quad.js</tspan>
-<tspan x="10" y="2554">123.  2017-04-17 12:38:44 +0000     8678 bytes  lib/core/renderers/webgl/utils/Quad.js.map</tspan>
-<tspan x="10" y="2570">124.  2017-04-17 12:38:44 +0000     8361 bytes  lib/core/renderers/webgl/utils/RenderTarget.js</tspan>
-<tspan x="10" y="2586">125.  2017-04-17 12:38:44 +0000    13953 bytes  lib/core/renderers/webgl/utils/RenderTarget.js.m\</tspan>
+<tspan x="10" y="2538">122.  2017-04-17 12:39:47 +0000     4718 bytes  lib/core/renderers/webgl/utils/Quad.js</tspan>
+<tspan x="10" y="2554">123.  2017-04-17 12:39:47 +0000     8678 bytes  lib/core/renderers/webgl/utils/Quad.js.map</tspan>
+<tspan x="10" y="2570">124.  2017-04-17 12:39:47 +0000     8361 bytes  lib/core/renderers/webgl/utils/RenderTarget.js</tspan>
+<tspan x="10" y="2586">125.  2017-04-17 12:39:47 +0000    13953 bytes  lib/core/renderers/webgl/utils/RenderTarget.js.m\</tspan>
 <tspan x="10" y="2602">ap</tspan>
-<tspan x="10" y="2618">126.  2017-04-17 12:38:44 +0000     1906 bytes  lib/core/renderers/webgl/utils/checkMaxIfStatmen\</tspan>
+<tspan x="10" y="2618">126.  2017-04-17 12:39:47 +0000     1906 bytes  lib/core/renderers/webgl/utils/checkMaxIfStatmen\</tspan>
 <tspan x="10" y="2634">tsInShader.js</tspan>
-<tspan x="10" y="2650">127.  2017-04-17 12:38:44 +0000     3603 bytes  lib/core/renderers/webgl/utils/checkMaxIfStatmen\</tspan>
+<tspan x="10" y="2650">127.  2017-04-17 12:39:47 +0000     3603 bytes  lib/core/renderers/webgl/utils/checkMaxIfStatmen\</tspan>
 <tspan x="10" y="2666">tsInShader.js.map</tspan>
-<tspan x="10" y="2682">128.  2017-04-17 12:38:44 +0000     1956 bytes  lib/core/renderers/webgl/utils/mapWebGLBlendMode\</tspan>
+<tspan x="10" y="2682">128.  2017-04-17 12:39:47 +0000     1956 bytes  lib/core/renderers/webgl/utils/mapWebGLBlendMode\</tspan>
 <tspan x="10" y="2698">sToPixi.js</tspan>
-<tspan x="10" y="2714">129.  2017-04-17 12:38:44 +0000     3514 bytes  lib/core/renderers/webgl/utils/mapWebGLBlendMode\</tspan>
+<tspan x="10" y="2714">129.  2017-04-17 12:39:47 +0000     3514 bytes  lib/core/renderers/webgl/utils/mapWebGLBlendMode\</tspan>
 <tspan x="10" y="2730">sToPixi.js.map</tspan>
-<tspan x="10" y="2746">130.  2017-04-17 12:38:44 +0000      995 bytes  lib/core/renderers/webgl/utils/mapWebGLDrawModes\</tspan>
+<tspan x="10" y="2746">130.  2017-04-17 12:39:47 +0000      995 bytes  lib/core/renderers/webgl/utils/mapWebGLDrawModes\</tspan>
 <tspan x="10" y="2762">ToPixi.js</tspan>
-<tspan x="10" y="2778">131.  2017-04-17 12:38:44 +0000     1527 bytes  lib/core/renderers/webgl/utils/mapWebGLDrawModes\</tspan>
+<tspan x="10" y="2778">131.  2017-04-17 12:39:47 +0000     1527 bytes  lib/core/renderers/webgl/utils/mapWebGLDrawModes\</tspan>
 <tspan x="10" y="2794">ToPixi.js.map</tspan>
-<tspan x="10" y="2810">132.  2017-04-17 12:38:44 +0000      515 bytes  lib/core/renderers/webgl/utils/validateContext.j\</tspan>
+<tspan x="10" y="2810">132.  2017-04-17 12:39:47 +0000      515 bytes  lib/core/renderers/webgl/utils/validateContext.j\</tspan>
 <tspan x="10" y="2826">s</tspan>
-<tspan x="10" y="2842">133.  2017-04-17 12:38:44 +0000      849 bytes  lib/core/renderers/webgl/utils/validateContext.j\</tspan>
+<tspan x="10" y="2842">133.  2017-04-17 12:39:47 +0000      849 bytes  lib/core/renderers/webgl/utils/validateContext.j\</tspan>
 <tspan x="10" y="2858">s.map</tspan>
-<tspan x="10" y="2874">134.  2017-04-17 12:38:44 +0000     5321 bytes  lib/core/settings.js</tspan>
-<tspan x="10" y="2890">135.  2017-04-17 12:38:44 +0000     6987 bytes  lib/core/settings.js.map</tspan>
-<tspan x="10" y="2906">136.  2017-04-17 12:38:44 +0000    19647 bytes  lib/core/sprites/Sprite.js</tspan>
-<tspan x="10" y="2922">137.  2017-04-17 12:38:44 +0000    27430 bytes  lib/core/sprites/Sprite.js.map</tspan>
-<tspan x="10" y="2938">138.  2017-04-17 12:38:44 +0000     5339 bytes  lib/core/sprites/canvas/CanvasSpriteRenderer.js</tspan>
-<tspan x="10" y="2954">139.  2017-04-17 12:38:44 +0000     9447 bytes  lib/core/sprites/canvas/CanvasSpriteRenderer.js.\</tspan>
+<tspan x="10" y="2874">134.  2017-04-17 12:39:47 +0000     5321 bytes  lib/core/settings.js</tspan>
+<tspan x="10" y="2890">135.  2017-04-17 12:39:47 +0000     6987 bytes  lib/core/settings.js.map</tspan>
+<tspan x="10" y="2906">136.  2017-04-17 12:39:47 +0000    19647 bytes  lib/core/sprites/Sprite.js</tspan>
+<tspan x="10" y="2922">137.  2017-04-17 12:39:47 +0000    27430 bytes  lib/core/sprites/Sprite.js.map</tspan>
+<tspan x="10" y="2938">138.  2017-04-17 12:39:47 +0000     5339 bytes  lib/core/sprites/canvas/CanvasSpriteRenderer.js</tspan>
+<tspan x="10" y="2954">139.  2017-04-17 12:39:47 +0000     9447 bytes  lib/core/sprites/canvas/CanvasSpriteRenderer.js.\</tspan>
 <tspan x="10" y="2970">map</tspan>
-<tspan x="10" y="2986">140.  2017-04-17 12:38:44 +0000     7710 bytes  lib/core/sprites/canvas/CanvasTinter.js</tspan>
-<tspan x="10" y="3002">141.  2017-04-17 12:38:44 +0000    13541 bytes  lib/core/sprites/canvas/CanvasTinter.js.map</tspan>
-<tspan x="10" y="3018">142.  2017-04-17 12:38:44 +0000     1062 bytes  lib/core/sprites/webgl/BatchBuffer.js</tspan>
-<tspan x="10" y="3034">143.  2017-04-17 12:38:44 +0000     1525 bytes  lib/core/sprites/webgl/BatchBuffer.js.map</tspan>
-<tspan x="10" y="3050">144.  2017-04-17 12:38:44 +0000    18068 bytes  lib/core/sprites/webgl/SpriteRenderer.js</tspan>
-<tspan x="10" y="3066">145.  2017-04-17 12:38:44 +0000    28470 bytes  lib/core/sprites/webgl/SpriteRenderer.js.map</tspan>
-<tspan x="10" y="3082">146.  2017-04-17 12:38:44 +0000     2147 bytes  lib/core/sprites/webgl/generateMultiTextureShade\</tspan>
+<tspan x="10" y="2986">140.  2017-04-17 12:39:47 +0000     7710 bytes  lib/core/sprites/canvas/CanvasTinter.js</tspan>
+<tspan x="10" y="3002">141.  2017-04-17 12:39:47 +0000    13541 bytes  lib/core/sprites/canvas/CanvasTinter.js.map</tspan>
+<tspan x="10" y="3018">142.  2017-04-17 12:39:47 +0000     1062 bytes  lib/core/sprites/webgl/BatchBuffer.js</tspan>
+<tspan x="10" y="3034">143.  2017-04-17 12:39:47 +0000     1525 bytes  lib/core/sprites/webgl/BatchBuffer.js.map</tspan>
+<tspan x="10" y="3050">144.  2017-04-17 12:39:47 +0000    18068 bytes  lib/core/sprites/webgl/SpriteRenderer.js</tspan>
+<tspan x="10" y="3066">145.  2017-04-17 12:39:47 +0000    28470 bytes  lib/core/sprites/webgl/SpriteRenderer.js.map</tspan>
+<tspan x="10" y="3082">146.  2017-04-17 12:39:47 +0000     2147 bytes  lib/core/sprites/webgl/generateMultiTextureShade\</tspan>
 <tspan x="10" y="3098">r.js</tspan>
-<tspan x="10" y="3114">147.  2017-04-17 12:38:44 +0000     3028 bytes  lib/core/sprites/webgl/generateMultiTextureShade\</tspan>
+<tspan x="10" y="3114">147.  2017-04-17 12:39:47 +0000     3028 bytes  lib/core/sprites/webgl/generateMultiTextureShade\</tspan>
 <tspan x="10" y="3130">r.js.map</tspan>
-<tspan x="10" y="3146">148.  2017-04-17 12:38:44 +0000    22521 bytes  lib/core/text/Text.js</tspan>
-<tspan x="10" y="3162">149.  2017-04-17 12:38:44 +0000    33964 bytes  lib/core/text/Text.js.map</tspan>
-<tspan x="10" y="3178">150.  2017-04-17 12:38:44 +0000    10310 bytes  lib/core/text/TextMetrics.js</tspan>
-<tspan x="10" y="3194">151.  2017-04-17 12:38:44 +0000    17026 bytes  lib/core/text/TextMetrics.js.map</tspan>
-<tspan x="10" y="3210">152.  2017-04-17 12:38:44 +0000    18194 bytes  lib/core/text/TextStyle.js</tspan>
-<tspan x="10" y="3226">153.  2017-04-17 12:38:44 +0000    24484 bytes  lib/core/text/TextStyle.js.map</tspan>
-<tspan x="10" y="3242">154.  2017-04-17 12:38:44 +0000     5294 bytes  lib/core/textures/BaseRenderTexture.js</tspan>
-<tspan x="10" y="3258">155.  2017-04-17 12:38:44 +0000     5386 bytes  lib/core/textures/BaseRenderTexture.js.map</tspan>
-<tspan x="10" y="3274">156.  2017-04-17 12:38:44 +0000    27006 bytes  lib/core/textures/BaseTexture.js</tspan>
-<tspan x="10" y="3290">157.  2017-04-17 12:38:44 +0000    36798 bytes  lib/core/textures/BaseTexture.js.map</tspan>
-<tspan x="10" y="3306">158.  2017-04-17 12:38:44 +0000     5625 bytes  lib/core/textures/RenderTexture.js</tspan>
-<tspan x="10" y="3322">159.  2017-04-17 12:38:44 +0000     5837 bytes  lib/core/textures/RenderTexture.js.map</tspan>
-<tspan x="10" y="3338">160.  2017-04-17 12:38:44 +0000     8163 bytes  lib/core/textures/Spritesheet.js</tspan>
-<tspan x="10" y="3354">161.  2017-04-17 12:38:44 +0000    11877 bytes  lib/core/textures/Spritesheet.js.map</tspan>
-<tspan x="10" y="3370">162.  2017-04-17 12:38:44 +0000    22350 bytes  lib/core/textures/Texture.js</tspan>
-<tspan x="10" y="3386">163.  2017-04-17 12:38:44 +0000    29240 bytes  lib/core/textures/Texture.js.map</tspan>
-<tspan x="10" y="3402">164.  2017-04-17 12:38:44 +0000     3213 bytes  lib/core/textures/TextureUvs.js</tspan>
-<tspan x="10" y="3418">165.  2017-04-17 12:38:44 +0000     5513 bytes  lib/core/textures/TextureUvs.js.map</tspan>
-<tspan x="10" y="3434">166.  2017-04-17 12:38:44 +0000    10901 bytes  lib/core/textures/VideoBaseTexture.js</tspan>
-<tspan x="10" y="3450">167.  2017-04-17 12:38:44 +0000    14029 bytes  lib/core/textures/VideoBaseTexture.js.map</tspan>
-<tspan x="10" y="3466">168.  2017-04-17 12:38:44 +0000    16037 bytes  lib/core/ticker/Ticker.js</tspan>
-<tspan x="10" y="3482">169.  2017-04-17 12:38:44 +0000    19257 bytes  lib/core/ticker/Ticker.js.map</tspan>
-<tspan x="10" y="3498">170.  2017-04-17 12:38:44 +0000     4139 bytes  lib/core/ticker/TickerListener.js</tspan>
-<tspan x="10" y="3514">171.  2017-04-17 12:38:44 +0000     5770 bytes  lib/core/ticker/TickerListener.js.map</tspan>
-<tspan x="10" y="3530">172.  2017-04-17 12:38:44 +0000     2534 bytes  lib/core/ticker/index.js</tspan>
-<tspan x="10" y="3546">173.  2017-04-17 12:38:44 +0000     2660 bytes  lib/core/ticker/index.js.map</tspan>
-<tspan x="10" y="3562">174.  2017-04-17 12:38:44 +0000      473 bytes  lib/core/utils/canUploadSameBuffer.js</tspan>
-<tspan x="10" y="3578">175.  2017-04-17 12:38:44 +0000      757 bytes  lib/core/utils/canUploadSameBuffer.js.map</tspan>
-<tspan x="10" y="3594">176.  2017-04-17 12:38:44 +0000      853 bytes  lib/core/utils/createIndicesForQuads.js</tspan>
-<tspan x="10" y="3610">177.  2017-04-17 12:38:44 +0000     1531 bytes  lib/core/utils/createIndicesForQuads.js.map</tspan>
-<tspan x="10" y="3626">178.  2017-04-17 12:38:44 +0000     1695 bytes  lib/core/utils/determineCrossOrigin.js</tspan>
-<tspan x="10" y="3642">179.  2017-04-17 12:38:44 +0000     2370 bytes  lib/core/utils/determineCrossOrigin.js.map</tspan>
-<tspan x="10" y="3658">180.  2017-04-17 12:38:44 +0000    10608 bytes  lib/core/utils/index.js</tspan>
-<tspan x="10" y="3674">181.  2017-04-17 12:38:44 +0000    15837 bytes  lib/core/utils/index.js.map</tspan>
-<tspan x="10" y="3690">182.  2017-04-17 12:38:44 +0000      562 bytes  lib/core/utils/maxRecommendedTextures.js</tspan>
-<tspan x="10" y="3706">183.  2017-04-17 12:38:44 +0000      633 bytes  lib/core/utils/maxRecommendedTextures.js.map</tspan>
-<tspan x="10" y="3722">184.  2017-04-17 12:38:44 +0000     1856 bytes  lib/core/utils/mixin.js</tspan>
-<tspan x="10" y="3738">185.  2017-04-17 12:38:44 +0000     2836 bytes  lib/core/utils/mixin.js.map</tspan>
-<tspan x="10" y="3754">186.  2017-04-17 12:38:44 +0000     1511 bytes  lib/core/utils/pluginTarget.js</tspan>
-<tspan x="10" y="3770">187.  2017-04-17 12:38:44 +0000     2593 bytes  lib/core/utils/pluginTarget.js.map</tspan>
-<tspan x="10" y="3786">188.  2017-04-17 12:38:44 +0000     1758 bytes  lib/core/utils/trimCanvas.js</tspan>
-<tspan x="10" y="3802">189.  2017-04-17 12:38:44 +0000     3589 bytes  lib/core/utils/trimCanvas.js.map</tspan>
-<tspan x="10" y="3818">190.  2017-04-17 12:38:44 +0000    33848 bytes  lib/deprecation.js</tspan>
-<tspan x="10" y="3834">191.  2017-04-17 12:38:44 +0000    50956 bytes  lib/deprecation.js.map</tspan>
-<tspan x="10" y="3850">192.  2017-04-17 12:38:44 +0000     5846 bytes  lib/extract/canvas/CanvasExtract.js</tspan>
-<tspan x="10" y="3866">193.  2017-04-17 12:38:44 +0000     8069 bytes  lib/extract/canvas/CanvasExtract.js.map</tspan>
-<tspan x="10" y="3882">194.  2017-04-17 12:38:44 +0000      591 bytes  lib/extract/index.js</tspan>
-<tspan x="10" y="3898">195.  2017-04-17 12:38:44 +0000     1133 bytes  lib/extract/index.js.map</tspan>
-<tspan x="10" y="3914">196.  2017-04-17 12:38:44 +0000     7250 bytes  lib/extract/webgl/WebGLExtract.js</tspan>
-<tspan x="10" y="3930">197.  2017-04-17 12:38:44 +0000    11035 bytes  lib/extract/webgl/WebGLExtract.js.map</tspan>
-<tspan x="10" y="3946">198.  2017-04-17 12:38:44 +0000    11329 bytes  lib/extras/AnimatedSprite.js</tspan>
-<tspan x="10" y="3962">199.  2017-04-17 12:38:44 +0000    13963 bytes  lib/extras/AnimatedSprite.js.map</tspan>
-<tspan x="10" y="3978">200.  2017-04-17 12:38:44 +0000    17216 bytes  lib/extras/BitmapText.js</tspan>
-<tspan x="10" y="3994">201.  2017-04-17 12:38:44 +0000    24506 bytes  lib/extras/BitmapText.js.map</tspan>
-<tspan x="10" y="4010">202.  2017-04-17 12:38:44 +0000     5018 bytes  lib/extras/TextureTransform.js</tspan>
-<tspan x="10" y="4026">203.  2017-04-17 12:38:44 +0000     7233 bytes  lib/extras/TextureTransform.js.map</tspan>
-<tspan x="10" y="4042">204.  2017-04-17 12:38:44 +0000    15456 bytes  lib/extras/TilingSprite.js</tspan>
-<tspan x="10" y="4058">205.  2017-04-17 12:38:44 +0000    20744 bytes  lib/extras/TilingSprite.js.map</tspan>
-<tspan x="10" y="4074">206.  2017-04-17 12:38:44 +0000    12817 bytes  lib/extras/cacheAsBitmap.js</tspan>
-<tspan x="10" y="4090">207.  2017-04-17 12:38:44 +0000    21256 bytes  lib/extras/cacheAsBitmap.js.map</tspan>
-<tspan x="10" y="4106">208.  2017-04-17 12:38:44 +0000      989 bytes  lib/extras/getChildByName.js</tspan>
-<tspan x="10" y="4122">209.  2017-04-17 12:38:44 +0000     1277 bytes  lib/extras/getChildByName.js.map</tspan>
-<tspan x="10" y="4138">210.  2017-04-17 12:38:44 +0000     1394 bytes  lib/extras/getGlobalPosition.js</tspan>
-<tspan x="10" y="4154">211.  2017-04-17 12:38:44 +0000     1581 bytes  lib/extras/getGlobalPosition.js.map</tspan>
-<tspan x="10" y="4170">212.  2017-04-17 12:38:44 +0000     1327 bytes  lib/extras/index.js</tspan>
-<tspan x="10" y="4186">213.  2017-04-17 12:38:44 +0000      763 bytes  lib/extras/index.js.map</tspan>
-<tspan x="10" y="4202">214.  2017-04-17 12:38:44 +0000     7300 bytes  lib/extras/webgl/TilingSpriteRenderer.js</tspan>
-<tspan x="10" y="4218">215.  2017-04-17 12:38:44 +0000     9198 bytes  lib/extras/webgl/TilingSpriteRenderer.js.map</tspan>
-<tspan x="10" y="4234">216.  2017-04-17 12:38:44 +0000     6080 bytes  lib/filters/blur/BlurFilter.js</tspan>
-<tspan x="10" y="4250">217.  2017-04-17 12:38:44 +0000     5678 bytes  lib/filters/blur/BlurFilter.js.map</tspan>
-<tspan x="10" y="4266">218.  2017-04-17 12:38:44 +0000     6347 bytes  lib/filters/blur/BlurXFilter.js</tspan>
-<tspan x="10" y="4282">219.  2017-04-17 12:38:44 +0000     6254 bytes  lib/filters/blur/BlurXFilter.js.map</tspan>
-<tspan x="10" y="4298">220.  2017-04-17 12:38:44 +0000     6288 bytes  lib/filters/blur/BlurYFilter.js</tspan>
-<tspan x="10" y="4314">221.  2017-04-17 12:38:44 +0000     6170 bytes  lib/filters/blur/BlurYFilter.js.map</tspan>
-<tspan x="10" y="4330">222.  2017-04-17 12:38:44 +0000     1485 bytes  lib/filters/blur/generateBlurFragSource.js</tspan>
-<tspan x="10" y="4346">223.  2017-04-17 12:38:44 +0000     3081 bytes  lib/filters/blur/generateBlurFragSource.js.map</tspan>
-<tspan x="10" y="4362">224.  2017-04-17 12:38:44 +0000     1396 bytes  lib/filters/blur/generateBlurVertSource.js</tspan>
-<tspan x="10" y="4378">225.  2017-04-17 12:38:44 +0000     2525 bytes  lib/filters/blur/generateBlurVertSource.js.map</tspan>
-<tspan x="10" y="4394">226.  2017-04-17 12:38:44 +0000      343 bytes  lib/filters/blur/getMaxBlurKernelSize.js</tspan>
-<tspan x="10" y="4410">227.  2017-04-17 12:38:44 +0000      693 bytes  lib/filters/blur/getMaxBlurKernelSize.js.map</tspan>
-<tspan x="10" y="4426">228.  2017-04-17 12:38:44 +0000    21348 bytes  lib/filters/colormatrix/ColorMatrixFilter.js</tspan>
-<tspan x="10" y="4442">229.  2017-04-17 12:38:44 +0000    32469 bytes  lib/filters/colormatrix/ColorMatrixFilter.js.map</tspan>
-<tspan x="10" y="4458">230.  2017-04-17 12:38:44 +0000     5455 bytes  lib/filters/displacement/DisplacementFilter.js</tspan>
-<tspan x="10" y="4474">231.  2017-04-17 12:38:44 +0000     4324 bytes  lib/filters/displacement/DisplacementFilter.js.m\</tspan>
+<tspan x="10" y="3146">148.  2017-04-17 12:39:47 +0000    22521 bytes  lib/core/text/Text.js</tspan>
+<tspan x="10" y="3162">149.  2017-04-17 12:39:47 +0000    33964 bytes  lib/core/text/Text.js.map</tspan>
+<tspan x="10" y="3178">150.  2017-04-17 12:39:47 +0000    10310 bytes  lib/core/text/TextMetrics.js</tspan>
+<tspan x="10" y="3194">151.  2017-04-17 12:39:47 +0000    17026 bytes  lib/core/text/TextMetrics.js.map</tspan>
+<tspan x="10" y="3210">152.  2017-04-17 12:39:47 +0000    18194 bytes  lib/core/text/TextStyle.js</tspan>
+<tspan x="10" y="3226">153.  2017-04-17 12:39:47 +0000    24484 bytes  lib/core/text/TextStyle.js.map</tspan>
+<tspan x="10" y="3242">154.  2017-04-17 12:39:47 +0000     5294 bytes  lib/core/textures/BaseRenderTexture.js</tspan>
+<tspan x="10" y="3258">155.  2017-04-17 12:39:47 +0000     5386 bytes  lib/core/textures/BaseRenderTexture.js.map</tspan>
+<tspan x="10" y="3274">156.  2017-04-17 12:39:47 +0000    27006 bytes  lib/core/textures/BaseTexture.js</tspan>
+<tspan x="10" y="3290">157.  2017-04-17 12:39:47 +0000    36798 bytes  lib/core/textures/BaseTexture.js.map</tspan>
+<tspan x="10" y="3306">158.  2017-04-17 12:39:47 +0000     5625 bytes  lib/core/textures/RenderTexture.js</tspan>
+<tspan x="10" y="3322">159.  2017-04-17 12:39:47 +0000     5837 bytes  lib/core/textures/RenderTexture.js.map</tspan>
+<tspan x="10" y="3338">160.  2017-04-17 12:39:47 +0000     8163 bytes  lib/core/textures/Spritesheet.js</tspan>
+<tspan x="10" y="3354">161.  2017-04-17 12:39:47 +0000    11877 bytes  lib/core/textures/Spritesheet.js.map</tspan>
+<tspan x="10" y="3370">162.  2017-04-17 12:39:47 +0000    22350 bytes  lib/core/textures/Texture.js</tspan>
+<tspan x="10" y="3386">163.  2017-04-17 12:39:47 +0000    29240 bytes  lib/core/textures/Texture.js.map</tspan>
+<tspan x="10" y="3402">164.  2017-04-17 12:39:47 +0000     3213 bytes  lib/core/textures/TextureUvs.js</tspan>
+<tspan x="10" y="3418">165.  2017-04-17 12:39:47 +0000     5513 bytes  lib/core/textures/TextureUvs.js.map</tspan>
+<tspan x="10" y="3434">166.  2017-04-17 12:39:47 +0000    10901 bytes  lib/core/textures/VideoBaseTexture.js</tspan>
+<tspan x="10" y="3450">167.  2017-04-17 12:39:47 +0000    14029 bytes  lib/core/textures/VideoBaseTexture.js.map</tspan>
+<tspan x="10" y="3466">168.  2017-04-17 12:39:47 +0000    16037 bytes  lib/core/ticker/Ticker.js</tspan>
+<tspan x="10" y="3482">169.  2017-04-17 12:39:47 +0000    19257 bytes  lib/core/ticker/Ticker.js.map</tspan>
+<tspan x="10" y="3498">170.  2017-04-17 12:39:47 +0000     4139 bytes  lib/core/ticker/TickerListener.js</tspan>
+<tspan x="10" y="3514">171.  2017-04-17 12:39:47 +0000     5770 bytes  lib/core/ticker/TickerListener.js.map</tspan>
+<tspan x="10" y="3530">172.  2017-04-17 12:39:47 +0000     2534 bytes  lib/core/ticker/index.js</tspan>
+<tspan x="10" y="3546">173.  2017-04-17 12:39:47 +0000     2660 bytes  lib/core/ticker/index.js.map</tspan>
+<tspan x="10" y="3562">174.  2017-04-17 12:39:47 +0000      473 bytes  lib/core/utils/canUploadSameBuffer.js</tspan>
+<tspan x="10" y="3578">175.  2017-04-17 12:39:47 +0000      757 bytes  lib/core/utils/canUploadSameBuffer.js.map</tspan>
+<tspan x="10" y="3594">176.  2017-04-17 12:39:47 +0000      853 bytes  lib/core/utils/createIndicesForQuads.js</tspan>
+<tspan x="10" y="3610">177.  2017-04-17 12:39:47 +0000     1531 bytes  lib/core/utils/createIndicesForQuads.js.map</tspan>
+<tspan x="10" y="3626">178.  2017-04-17 12:39:47 +0000     1695 bytes  lib/core/utils/determineCrossOrigin.js</tspan>
+<tspan x="10" y="3642">179.  2017-04-17 12:39:47 +0000     2370 bytes  lib/core/utils/determineCrossOrigin.js.map</tspan>
+<tspan x="10" y="3658">180.  2017-04-17 12:39:47 +0000    10608 bytes  lib/core/utils/index.js</tspan>
+<tspan x="10" y="3674">181.  2017-04-17 12:39:47 +0000    15837 bytes  lib/core/utils/index.js.map</tspan>
+<tspan x="10" y="3690">182.  2017-04-17 12:39:47 +0000      562 bytes  lib/core/utils/maxRecommendedTextures.js</tspan>
+<tspan x="10" y="3706">183.  2017-04-17 12:39:47 +0000      633 bytes  lib/core/utils/maxRecommendedTextures.js.map</tspan>
+<tspan x="10" y="3722">184.  2017-04-17 12:39:47 +0000     1856 bytes  lib/core/utils/mixin.js</tspan>
+<tspan x="10" y="3738">185.  2017-04-17 12:39:47 +0000     2836 bytes  lib/core/utils/mixin.js.map</tspan>
+<tspan x="10" y="3754">186.  2017-04-17 12:39:47 +0000     1511 bytes  lib/core/utils/pluginTarget.js</tspan>
+<tspan x="10" y="3770">187.  2017-04-17 12:39:47 +0000     2593 bytes  lib/core/utils/pluginTarget.js.map</tspan>
+<tspan x="10" y="3786">188.  2017-04-17 12:39:47 +0000     1758 bytes  lib/core/utils/trimCanvas.js</tspan>
+<tspan x="10" y="3802">189.  2017-04-17 12:39:47 +0000     3589 bytes  lib/core/utils/trimCanvas.js.map</tspan>
+<tspan x="10" y="3818">190.  2017-04-17 12:39:47 +0000    33848 bytes  lib/deprecation.js</tspan>
+<tspan x="10" y="3834">191.  2017-04-17 12:39:47 +0000    50956 bytes  lib/deprecation.js.map</tspan>
+<tspan x="10" y="3850">192.  2017-04-17 12:39:47 +0000     5846 bytes  lib/extract/canvas/CanvasExtract.js</tspan>
+<tspan x="10" y="3866">193.  2017-04-17 12:39:47 +0000     8069 bytes  lib/extract/canvas/CanvasExtract.js.map</tspan>
+<tspan x="10" y="3882">194.  2017-04-17 12:39:47 +0000      591 bytes  lib/extract/index.js</tspan>
+<tspan x="10" y="3898">195.  2017-04-17 12:39:47 +0000     1133 bytes  lib/extract/index.js.map</tspan>
+<tspan x="10" y="3914">196.  2017-04-17 12:39:47 +0000     7250 bytes  lib/extract/webgl/WebGLExtract.js</tspan>
+<tspan x="10" y="3930">197.  2017-04-17 12:39:47 +0000    11035 bytes  lib/extract/webgl/WebGLExtract.js.map</tspan>
+<tspan x="10" y="3946">198.  2017-04-17 12:39:47 +0000    11329 bytes  lib/extras/AnimatedSprite.js</tspan>
+<tspan x="10" y="3962">199.  2017-04-17 12:39:47 +0000    13963 bytes  lib/extras/AnimatedSprite.js.map</tspan>
+<tspan x="10" y="3978">200.  2017-04-17 12:39:47 +0000    17216 bytes  lib/extras/BitmapText.js</tspan>
+<tspan x="10" y="3994">201.  2017-04-17 12:39:47 +0000    24506 bytes  lib/extras/BitmapText.js.map</tspan>
+<tspan x="10" y="4010">202.  2017-04-17 12:39:47 +0000     5018 bytes  lib/extras/TextureTransform.js</tspan>
+<tspan x="10" y="4026">203.  2017-04-17 12:39:47 +0000     7233 bytes  lib/extras/TextureTransform.js.map</tspan>
+<tspan x="10" y="4042">204.  2017-04-17 12:39:47 +0000    15456 bytes  lib/extras/TilingSprite.js</tspan>
+<tspan x="10" y="4058">205.  2017-04-17 12:39:47 +0000    20744 bytes  lib/extras/TilingSprite.js.map</tspan>
+<tspan x="10" y="4074">206.  2017-04-17 12:39:47 +0000    12817 bytes  lib/extras/cacheAsBitmap.js</tspan>
+<tspan x="10" y="4090">207.  2017-04-17 12:39:47 +0000    21256 bytes  lib/extras/cacheAsBitmap.js.map</tspan>
+<tspan x="10" y="4106">208.  2017-04-17 12:39:47 +0000      989 bytes  lib/extras/getChildByName.js</tspan>
+<tspan x="10" y="4122">209.  2017-04-17 12:39:47 +0000     1277 bytes  lib/extras/getChildByName.js.map</tspan>
+<tspan x="10" y="4138">210.  2017-04-17 12:39:47 +0000     1394 bytes  lib/extras/getGlobalPosition.js</tspan>
+<tspan x="10" y="4154">211.  2017-04-17 12:39:47 +0000     1581 bytes  lib/extras/getGlobalPosition.js.map</tspan>
+<tspan x="10" y="4170">212.  2017-04-17 12:39:47 +0000     1327 bytes  lib/extras/index.js</tspan>
+<tspan x="10" y="4186">213.  2017-04-17 12:39:47 +0000      763 bytes  lib/extras/index.js.map</tspan>
+<tspan x="10" y="4202">214.  2017-04-17 12:39:47 +0000     7300 bytes  lib/extras/webgl/TilingSpriteRenderer.js</tspan>
+<tspan x="10" y="4218">215.  2017-04-17 12:39:47 +0000     9198 bytes  lib/extras/webgl/TilingSpriteRenderer.js.map</tspan>
+<tspan x="10" y="4234">216.  2017-04-17 12:39:47 +0000     6080 bytes  lib/filters/blur/BlurFilter.js</tspan>
+<tspan x="10" y="4250">217.  2017-04-17 12:39:47 +0000     5678 bytes  lib/filters/blur/BlurFilter.js.map</tspan>
+<tspan x="10" y="4266">218.  2017-04-17 12:39:47 +0000     6347 bytes  lib/filters/blur/BlurXFilter.js</tspan>
+<tspan x="10" y="4282">219.  2017-04-17 12:39:47 +0000     6254 bytes  lib/filters/blur/BlurXFilter.js.map</tspan>
+<tspan x="10" y="4298">220.  2017-04-17 12:39:47 +0000     6288 bytes  lib/filters/blur/BlurYFilter.js</tspan>
+<tspan x="10" y="4314">221.  2017-04-17 12:39:47 +0000     6170 bytes  lib/filters/blur/BlurYFilter.js.map</tspan>
+<tspan x="10" y="4330">222.  2017-04-17 12:39:47 +0000     1485 bytes  lib/filters/blur/generateBlurFragSource.js</tspan>
+<tspan x="10" y="4346">223.  2017-04-17 12:39:47 +0000     3081 bytes  lib/filters/blur/generateBlurFragSource.js.map</tspan>
+<tspan x="10" y="4362">224.  2017-04-17 12:39:47 +0000     1396 bytes  lib/filters/blur/generateBlurVertSource.js</tspan>
+<tspan x="10" y="4378">225.  2017-04-17 12:39:47 +0000     2525 bytes  lib/filters/blur/generateBlurVertSource.js.map</tspan>
+<tspan x="10" y="4394">226.  2017-04-17 12:39:47 +0000      343 bytes  lib/filters/blur/getMaxBlurKernelSize.js</tspan>
+<tspan x="10" y="4410">227.  2017-04-17 12:39:47 +0000      693 bytes  lib/filters/blur/getMaxBlurKernelSize.js.map</tspan>
+<tspan x="10" y="4426">228.  2017-04-17 12:39:47 +0000    21348 bytes  lib/filters/colormatrix/ColorMatrixFilter.js</tspan>
+<tspan x="10" y="4442">229.  2017-04-17 12:39:47 +0000    32469 bytes  lib/filters/colormatrix/ColorMatrixFilter.js.map</tspan>
+<tspan x="10" y="4458">230.  2017-04-17 12:39:47 +0000     5455 bytes  lib/filters/displacement/DisplacementFilter.js</tspan>
+<tspan x="10" y="4474">231.  2017-04-17 12:39:47 +0000     4324 bytes  lib/filters/displacement/DisplacementFilter.js.m\</tspan>
 <tspan x="10" y="4490">ap</tspan>
-<tspan x="10" y="4506">232.  2017-04-17 12:38:44 +0000     7955 bytes  lib/filters/fxaa/FXAAFilter.js</tspan>
-<tspan x="10" y="4522">233.  2017-04-17 12:38:44 +0000     1111 bytes  lib/filters/fxaa/FXAAFilter.js.map</tspan>
-<tspan x="10" y="4538">234.  2017-04-17 12:38:44 +0000     1900 bytes  lib/filters/index.js</tspan>
-<tspan x="10" y="4554">235.  2017-04-17 12:38:44 +0000     1398 bytes  lib/filters/index.js.map</tspan>
-<tspan x="10" y="4570">236.  2017-04-17 12:38:44 +0000     3736 bytes  lib/filters/noise/NoiseFilter.js</tspan>
-<tspan x="10" y="4586">237.  2017-04-17 12:38:44 +0000     1540 bytes  lib/filters/noise/NoiseFilter.js.map</tspan>
-<tspan x="10" y="4602">238.  2017-04-17 12:38:44 +0000     2341 bytes  lib/filters/void/VoidFilter.js</tspan>
-<tspan x="10" y="4618">239.  2017-04-17 12:38:44 +0000      967 bytes  lib/filters/void/VoidFilter.js.map</tspan>
-<tspan x="10" y="4634">240.  2017-04-17 12:38:44 +0000     3017 bytes  lib/index.js</tspan>
-<tspan x="10" y="4650">241.  2017-04-17 12:38:44 +0000     1988 bytes  lib/index.js.map</tspan>
-<tspan x="10" y="4666">242.  2017-04-17 12:38:44 +0000     2597 bytes  lib/interaction/InteractionData.js</tspan>
-<tspan x="10" y="4682">243.  2017-04-17 12:38:44 +0000     2793 bytes  lib/interaction/InteractionData.js.map</tspan>
-<tspan x="10" y="4698">244.  2017-04-17 12:38:44 +0000     1728 bytes  lib/interaction/InteractionEvent.js</tspan>
-<tspan x="10" y="4714">245.  2017-04-17 12:38:44 +0000     2180 bytes  lib/interaction/InteractionEvent.js.map</tspan>
-<tspan x="10" y="4730">246.  2017-04-17 12:38:44 +0000    69376 bytes  lib/interaction/InteractionManager.js</tspan>
-<tspan x="10" y="4746">247.  2017-04-17 12:38:44 +0000    95539 bytes  lib/interaction/InteractionManager.js.map</tspan>
-<tspan x="10" y="4762">248.  2017-04-17 12:38:44 +0000     4769 bytes  lib/interaction/InteractionTrackingData.js</tspan>
-<tspan x="10" y="4778">249.  2017-04-17 12:38:44 +0000     4981 bytes  lib/interaction/InteractionTrackingData.js.map</tspan>
-<tspan x="10" y="4794">250.  2017-04-17 12:38:44 +0000      852 bytes  lib/interaction/index.js</tspan>
-<tspan x="10" y="4810">251.  2017-04-17 12:38:44 +0000      709 bytes  lib/interaction/index.js.map</tspan>
-<tspan x="10" y="4826">252.  2017-04-17 12:38:44 +0000     3177 bytes  lib/interaction/interactiveTarget.js</tspan>
-<tspan x="10" y="4842">253.  2017-04-17 12:38:44 +0000     4290 bytes  lib/interaction/interactiveTarget.js.map</tspan>
-<tspan x="10" y="4858">254.  2017-04-17 12:38:44 +0000     3149 bytes  lib/loaders/bitmapFontParser.js</tspan>
-<tspan x="10" y="4874">255.  2017-04-17 12:38:44 +0000     5099 bytes  lib/loaders/bitmapFontParser.js.map</tspan>
-<tspan x="10" y="4890">256.  2017-04-17 12:38:44 +0000     3398 bytes  lib/loaders/index.js</tspan>
-<tspan x="10" y="4906">257.  2017-04-17 12:38:44 +0000     3231 bytes  lib/loaders/index.js.map</tspan>
-<tspan x="10" y="4922">258.  2017-04-17 12:38:44 +0000     6504 bytes  lib/loaders/loader.js</tspan>
-<tspan x="10" y="4938">259.  2017-04-17 12:38:44 +0000     6640 bytes  lib/loaders/loader.js.map</tspan>
-<tspan x="10" y="4954">260.  2017-04-17 12:38:44 +0000     1891 bytes  lib/loaders/spritesheetParser.js</tspan>
-<tspan x="10" y="4970">261.  2017-04-17 12:38:44 +0000     3441 bytes  lib/loaders/spritesheetParser.js.map</tspan>
-<tspan x="10" y="4986">262.  2017-04-17 12:38:44 +0000      710 bytes  lib/loaders/textureParser.js</tspan>
-<tspan x="10" y="5002">263.  2017-04-17 12:38:44 +0000     1043 bytes  lib/loaders/textureParser.js.map</tspan>
-<tspan x="10" y="5018">264.  2017-04-17 12:38:44 +0000    10416 bytes  lib/mesh/Mesh.js</tspan>
-<tspan x="10" y="5034">265.  2017-04-17 12:38:44 +0000    13794 bytes  lib/mesh/Mesh.js.map</tspan>
-<tspan x="10" y="5050">266.  2017-04-17 12:38:44 +0000    13613 bytes  lib/mesh/NineSlicePlane.js</tspan>
-<tspan x="10" y="5066">267.  2017-04-17 12:38:44 +0000    18802 bytes  lib/mesh/NineSlicePlane.js.map</tspan>
-<tspan x="10" y="5082">268.  2017-04-17 12:38:44 +0000     4422 bytes  lib/mesh/Plane.js</tspan>
-<tspan x="10" y="5098">269.  2017-04-17 12:38:44 +0000     5618 bytes  lib/mesh/Plane.js.map</tspan>
-<tspan x="10" y="5114">270.  2017-04-17 12:38:44 +0000     6525 bytes  lib/mesh/Rope.js</tspan>
-<tspan x="10" y="5130">271.  2017-04-17 12:38:44 +0000     9139 bytes  lib/mesh/Rope.js.map</tspan>
-<tspan x="10" y="5146">272.  2017-04-17 12:38:44 +0000     8851 bytes  lib/mesh/canvas/CanvasMeshRenderer.js</tspan>
-<tspan x="10" y="5162">273.  2017-04-17 12:38:44 +0000    16672 bytes  lib/mesh/canvas/CanvasMeshRenderer.js.map</tspan>
-<tspan x="10" y="5178">274.  2017-04-17 12:38:44 +0000     1373 bytes  lib/mesh/index.js</tspan>
-<tspan x="10" y="5194">275.  2017-04-17 12:38:44 +0000      599 bytes  lib/mesh/index.js.map</tspan>
-<tspan x="10" y="5210">276.  2017-04-17 12:38:44 +0000     5991 bytes  lib/mesh/webgl/MeshRenderer.js</tspan>
-<tspan x="10" y="5226">277.  2017-04-17 12:38:44 +0000     7718 bytes  lib/mesh/webgl/MeshRenderer.js.map</tspan>
-<tspan x="10" y="5242">278.  2017-04-17 12:38:44 +0000    12375 bytes  lib/particles/ParticleContainer.js</tspan>
-<tspan x="10" y="5258">279.  2017-04-17 12:38:44 +0000    17702 bytes  lib/particles/ParticleContainer.js.map</tspan>
-<tspan x="10" y="5274">280.  2017-04-17 12:38:44 +0000      630 bytes  lib/particles/index.js</tspan>
-<tspan x="10" y="5290">281.  2017-04-17 12:38:44 +0000      346 bytes  lib/particles/index.js.map</tspan>
-<tspan x="10" y="5306">282.  2017-04-17 12:38:44 +0000     7390 bytes  lib/particles/webgl/ParticleBuffer.js</tspan>
-<tspan x="10" y="5322">283.  2017-04-17 12:38:44 +0000    11552 bytes  lib/particles/webgl/ParticleBuffer.js.map</tspan>
-<tspan x="10" y="5338">284.  2017-04-17 12:38:44 +0000    15236 bytes  lib/particles/webgl/ParticleRenderer.js</tspan>
-<tspan x="10" y="5354">285.  2017-04-17 12:38:44 +0000    22610 bytes  lib/particles/webgl/ParticleRenderer.js.map</tspan>
-<tspan x="10" y="5370">286.  2017-04-17 12:38:44 +0000     2684 bytes  lib/particles/webgl/ParticleShader.js</tspan>
-<tspan x="10" y="5386">287.  2017-04-17 12:38:44 +0000     2591 bytes  lib/particles/webgl/ParticleShader.js.map</tspan>
-<tspan x="10" y="5402">288.  2017-04-17 12:38:44 +0000      351 bytes  lib/polyfill/Math.sign.js</tspan>
-<tspan x="10" y="5418">289.  2017-04-17 12:38:44 +0000      758 bytes  lib/polyfill/Math.sign.js.map</tspan>
-<tspan x="10" y="5434">290.  2017-04-17 12:38:44 +0000      491 bytes  lib/polyfill/Object.assign.js</tspan>
-<tspan x="10" y="5450">291.  2017-04-17 12:38:44 +0000      509 bytes  lib/polyfill/Object.assign.js.map</tspan>
-<tspan x="10" y="5466">292.  2017-04-17 12:38:44 +0000      388 bytes  lib/polyfill/index.js</tspan>
-<tspan x="10" y="5482">293.  2017-04-17 12:38:44 +0000      838 bytes  lib/polyfill/index.js.map</tspan>
-<tspan x="10" y="5498">294.  2017-04-17 12:38:44 +0000     2106 bytes  lib/polyfill/requestAnimationFrame.js</tspan>
-<tspan x="10" y="5514">295.  2017-04-17 12:38:44 +0000     3883 bytes  lib/polyfill/requestAnimationFrame.js.map</tspan>
-<tspan x="10" y="5530">296.  2017-04-17 12:38:44 +0000    13774 bytes  lib/prepare/BasePrepare.js</tspan>
-<tspan x="10" y="5546">297.  2017-04-17 12:38:44 +0000    20243 bytes  lib/prepare/BasePrepare.js.map</tspan>
-<tspan x="10" y="5562">298.  2017-04-17 12:38:44 +0000     4573 bytes  lib/prepare/canvas/CanvasPrepare.js</tspan>
-<tspan x="10" y="5578">299.  2017-04-17 12:38:44 +0000     4629 bytes  lib/prepare/canvas/CanvasPrepare.js.map</tspan>
-<tspan x="10" y="5594">300.  2017-04-17 12:38:44 +0000     1225 bytes  lib/prepare/index.js</tspan>
-<tspan x="10" y="5610">301.  2017-04-17 12:38:44 +0000     1499 bytes  lib/prepare/index.js.map</tspan>
-<tspan x="10" y="5626">302.  2017-04-17 12:38:44 +0000     1477 bytes  lib/prepare/limiters/CountLimiter.js</tspan>
-<tspan x="10" y="5642">303.  2017-04-17 12:38:44 +0000     1681 bytes  lib/prepare/limiters/CountLimiter.js.map</tspan>
-<tspan x="10" y="5658">304.  2017-04-17 12:38:44 +0000     1479 bytes  lib/prepare/limiters/TimeLimiter.js</tspan>
-<tspan x="10" y="5674">305.  2017-04-17 12:38:44 +0000     1726 bytes  lib/prepare/limiters/TimeLimiter.js.map</tspan>
-<tspan x="10" y="5690">306.  2017-04-17 12:38:44 +0000     4477 bytes  lib/prepare/webgl/WebGLPrepare.js</tspan>
-<tspan x="10" y="5706">307.  2017-04-17 12:38:44 +0000     4485 bytes  lib/prepare/webgl/WebGLPrepare.js.map</tspan>
-<tspan x="10" y="5722">308.  2017-04-17 12:38:44 +0000     4660 bytes  package.json</tspan>
+<tspan x="10" y="4506">232.  2017-04-17 12:39:47 +0000     7955 bytes  lib/filters/fxaa/FXAAFilter.js</tspan>
+<tspan x="10" y="4522">233.  2017-04-17 12:39:47 +0000     1111 bytes  lib/filters/fxaa/FXAAFilter.js.map</tspan>
+<tspan x="10" y="4538">234.  2017-04-17 12:39:47 +0000     1900 bytes  lib/filters/index.js</tspan>
+<tspan x="10" y="4554">235.  2017-04-17 12:39:47 +0000     1398 bytes  lib/filters/index.js.map</tspan>
+<tspan x="10" y="4570">236.  2017-04-17 12:39:47 +0000     3736 bytes  lib/filters/noise/NoiseFilter.js</tspan>
+<tspan x="10" y="4586">237.  2017-04-17 12:39:47 +0000     1540 bytes  lib/filters/noise/NoiseFilter.js.map</tspan>
+<tspan x="10" y="4602">238.  2017-04-17 12:39:47 +0000     2341 bytes  lib/filters/void/VoidFilter.js</tspan>
+<tspan x="10" y="4618">239.  2017-04-17 12:39:47 +0000      967 bytes  lib/filters/void/VoidFilter.js.map</tspan>
+<tspan x="10" y="4634">240.  2017-04-17 12:39:47 +0000     3017 bytes  lib/index.js</tspan>
+<tspan x="10" y="4650">241.  2017-04-17 12:39:47 +0000     1988 bytes  lib/index.js.map</tspan>
+<tspan x="10" y="4666">242.  2017-04-17 12:39:47 +0000     2597 bytes  lib/interaction/InteractionData.js</tspan>
+<tspan x="10" y="4682">243.  2017-04-17 12:39:47 +0000     2793 bytes  lib/interaction/InteractionData.js.map</tspan>
+<tspan x="10" y="4698">244.  2017-04-17 12:39:47 +0000     1728 bytes  lib/interaction/InteractionEvent.js</tspan>
+<tspan x="10" y="4714">245.  2017-04-17 12:39:47 +0000     2180 bytes  lib/interaction/InteractionEvent.js.map</tspan>
+<tspan x="10" y="4730">246.  2017-04-17 12:39:47 +0000    69376 bytes  lib/interaction/InteractionManager.js</tspan>
+<tspan x="10" y="4746">247.  2017-04-17 12:39:47 +0000    95539 bytes  lib/interaction/InteractionManager.js.map</tspan>
+<tspan x="10" y="4762">248.  2017-04-17 12:39:47 +0000     4769 bytes  lib/interaction/InteractionTrackingData.js</tspan>
+<tspan x="10" y="4778">249.  2017-04-17 12:39:47 +0000     4981 bytes  lib/interaction/InteractionTrackingData.js.map</tspan>
+<tspan x="10" y="4794">250.  2017-04-17 12:39:47 +0000      852 bytes  lib/interaction/index.js</tspan>
+<tspan x="10" y="4810">251.  2017-04-17 12:39:47 +0000      709 bytes  lib/interaction/index.js.map</tspan>
+<tspan x="10" y="4826">252.  2017-04-17 12:39:47 +0000     3177 bytes  lib/interaction/interactiveTarget.js</tspan>
+<tspan x="10" y="4842">253.  2017-04-17 12:39:47 +0000     4290 bytes  lib/interaction/interactiveTarget.js.map</tspan>
+<tspan x="10" y="4858">254.  2017-04-17 12:39:47 +0000     3149 bytes  lib/loaders/bitmapFontParser.js</tspan>
+<tspan x="10" y="4874">255.  2017-04-17 12:39:47 +0000     5099 bytes  lib/loaders/bitmapFontParser.js.map</tspan>
+<tspan x="10" y="4890">256.  2017-04-17 12:39:47 +0000     3398 bytes  lib/loaders/index.js</tspan>
+<tspan x="10" y="4906">257.  2017-04-17 12:39:47 +0000     3231 bytes  lib/loaders/index.js.map</tspan>
+<tspan x="10" y="4922">258.  2017-04-17 12:39:47 +0000     6504 bytes  lib/loaders/loader.js</tspan>
+<tspan x="10" y="4938">259.  2017-04-17 12:39:47 +0000     6640 bytes  lib/loaders/loader.js.map</tspan>
+<tspan x="10" y="4954">260.  2017-04-17 12:39:47 +0000     1891 bytes  lib/loaders/spritesheetParser.js</tspan>
+<tspan x="10" y="4970">261.  2017-04-17 12:39:47 +0000     3441 bytes  lib/loaders/spritesheetParser.js.map</tspan>
+<tspan x="10" y="4986">262.  2017-04-17 12:39:47 +0000      710 bytes  lib/loaders/textureParser.js</tspan>
+<tspan x="10" y="5002">263.  2017-04-17 12:39:47 +0000     1043 bytes  lib/loaders/textureParser.js.map</tspan>
+<tspan x="10" y="5018">264.  2017-04-17 12:39:47 +0000    10416 bytes  lib/mesh/Mesh.js</tspan>
+<tspan x="10" y="5034">265.  2017-04-17 12:39:47 +0000    13794 bytes  lib/mesh/Mesh.js.map</tspan>
+<tspan x="10" y="5050">266.  2017-04-17 12:39:47 +0000    13613 bytes  lib/mesh/NineSlicePlane.js</tspan>
+<tspan x="10" y="5066">267.  2017-04-17 12:39:47 +0000    18802 bytes  lib/mesh/NineSlicePlane.js.map</tspan>
+<tspan x="10" y="5082">268.  2017-04-17 12:39:47 +0000     4422 bytes  lib/mesh/Plane.js</tspan>
+<tspan x="10" y="5098">269.  2017-04-17 12:39:47 +0000     5618 bytes  lib/mesh/Plane.js.map</tspan>
+<tspan x="10" y="5114">270.  2017-04-17 12:39:47 +0000     6525 bytes  lib/mesh/Rope.js</tspan>
+<tspan x="10" y="5130">271.  2017-04-17 12:39:47 +0000     9139 bytes  lib/mesh/Rope.js.map</tspan>
+<tspan x="10" y="5146">272.  2017-04-17 12:39:47 +0000     8851 bytes  lib/mesh/canvas/CanvasMeshRenderer.js</tspan>
+<tspan x="10" y="5162">273.  2017-04-17 12:39:47 +0000    16672 bytes  lib/mesh/canvas/CanvasMeshRenderer.js.map</tspan>
+<tspan x="10" y="5178">274.  2017-04-17 12:39:47 +0000     1373 bytes  lib/mesh/index.js</tspan>
+<tspan x="10" y="5194">275.  2017-04-17 12:39:47 +0000      599 bytes  lib/mesh/index.js.map</tspan>
+<tspan x="10" y="5210">276.  2017-04-17 12:39:47 +0000     5991 bytes  lib/mesh/webgl/MeshRenderer.js</tspan>
+<tspan x="10" y="5226">277.  2017-04-17 12:39:47 +0000     7718 bytes  lib/mesh/webgl/MeshRenderer.js.map</tspan>
+<tspan x="10" y="5242">278.  2017-04-17 12:39:47 +0000    12375 bytes  lib/particles/ParticleContainer.js</tspan>
+<tspan x="10" y="5258">279.  2017-04-17 12:39:47 +0000    17702 bytes  lib/particles/ParticleContainer.js.map</tspan>
+<tspan x="10" y="5274">280.  2017-04-17 12:39:47 +0000      630 bytes  lib/particles/index.js</tspan>
+<tspan x="10" y="5290">281.  2017-04-17 12:39:47 +0000      346 bytes  lib/particles/index.js.map</tspan>
+<tspan x="10" y="5306">282.  2017-04-17 12:39:47 +0000     7390 bytes  lib/particles/webgl/ParticleBuffer.js</tspan>
+<tspan x="10" y="5322">283.  2017-04-17 12:39:47 +0000    11552 bytes  lib/particles/webgl/ParticleBuffer.js.map</tspan>
+<tspan x="10" y="5338">284.  2017-04-17 12:39:47 +0000    15236 bytes  lib/particles/webgl/ParticleRenderer.js</tspan>
+<tspan x="10" y="5354">285.  2017-04-17 12:39:47 +0000    22610 bytes  lib/particles/webgl/ParticleRenderer.js.map</tspan>
+<tspan x="10" y="5370">286.  2017-04-17 12:39:47 +0000     2684 bytes  lib/particles/webgl/ParticleShader.js</tspan>
+<tspan x="10" y="5386">287.  2017-04-17 12:39:47 +0000     2591 bytes  lib/particles/webgl/ParticleShader.js.map</tspan>
+<tspan x="10" y="5402">288.  2017-04-17 12:39:47 +0000      351 bytes  lib/polyfill/Math.sign.js</tspan>
+<tspan x="10" y="5418">289.  2017-04-17 12:39:47 +0000      758 bytes  lib/polyfill/Math.sign.js.map</tspan>
+<tspan x="10" y="5434">290.  2017-04-17 12:39:47 +0000      491 bytes  lib/polyfill/Object.assign.js</tspan>
+<tspan x="10" y="5450">291.  2017-04-17 12:39:47 +0000      509 bytes  lib/polyfill/Object.assign.js.map</tspan>
+<tspan x="10" y="5466">292.  2017-04-17 12:39:47 +0000      388 bytes  lib/polyfill/index.js</tspan>
+<tspan x="10" y="5482">293.  2017-04-17 12:39:47 +0000      838 bytes  lib/polyfill/index.js.map</tspan>
+<tspan x="10" y="5498">294.  2017-04-17 12:39:47 +0000     2106 bytes  lib/polyfill/requestAnimationFrame.js</tspan>
+<tspan x="10" y="5514">295.  2017-04-17 12:39:47 +0000     3883 bytes  lib/polyfill/requestAnimationFrame.js.map</tspan>
+<tspan x="10" y="5530">296.  2017-04-17 12:39:47 +0000    13774 bytes  lib/prepare/BasePrepare.js</tspan>
+<tspan x="10" y="5546">297.  2017-04-17 12:39:47 +0000    20243 bytes  lib/prepare/BasePrepare.js.map</tspan>
+<tspan x="10" y="5562">298.  2017-04-17 12:39:47 +0000     4573 bytes  lib/prepare/canvas/CanvasPrepare.js</tspan>
+<tspan x="10" y="5578">299.  2017-04-17 12:39:47 +0000     4629 bytes  lib/prepare/canvas/CanvasPrepare.js.map</tspan>
+<tspan x="10" y="5594">300.  2017-04-17 12:39:47 +0000     1225 bytes  lib/prepare/index.js</tspan>
+<tspan x="10" y="5610">301.  2017-04-17 12:39:47 +0000     1499 bytes  lib/prepare/index.js.map</tspan>
+<tspan x="10" y="5626">302.  2017-04-17 12:39:47 +0000     1477 bytes  lib/prepare/limiters/CountLimiter.js</tspan>
+<tspan x="10" y="5642">303.  2017-04-17 12:39:47 +0000     1681 bytes  lib/prepare/limiters/CountLimiter.js.map</tspan>
+<tspan x="10" y="5658">304.  2017-04-17 12:39:47 +0000     1479 bytes  lib/prepare/limiters/TimeLimiter.js</tspan>
+<tspan x="10" y="5674">305.  2017-04-17 12:39:47 +0000     1726 bytes  lib/prepare/limiters/TimeLimiter.js.map</tspan>
+<tspan x="10" y="5690">306.  2017-04-17 12:39:47 +0000     4477 bytes  lib/prepare/webgl/WebGLPrepare.js</tspan>
+<tspan x="10" y="5706">307.  2017-04-17 12:39:47 +0000     4485 bytes  lib/prepare/webgl/WebGLPrepare.js.map</tspan>
+<tspan x="10" y="5722">308.  2017-04-17 12:39:47 +0000     4660 bytes  package.json</tspan>
 </text>
 </svg>
