@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "test coverage for [pixi.js (v4.5.0)](http://goodboydigital.com/) [![npm package](https://img.shields.io/npm/v/npmtest-pixi.js.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-pixi.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-pixi.js.svg)](https://travis-ci.org/npmtest/node-npmtest-pixi.js)",
+    "description": "#### basic test coverage for  [pixi.js (v4.5.0)](http://goodboydigital.com/)  [![npm package](https://img.shields.io/npm/v/npmtest-pixi.js.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-pixi.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-pixi.js.svg)](https://travis-ci.org/npmtest/node-npmtest-pixi.js)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "pixi.js": "*",
@@ -36,5 +36,5 @@
         "start": "(set -e; export PORT=${PORT:-8080}; utility2 start test.js)",
         "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
     },
-    "version": "0.0.1"
+    "version": "2017.4.23"
 }

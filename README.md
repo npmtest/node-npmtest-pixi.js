@@ -1,4 +1,7 @@
-# test coverage for  [pixi.js (v4.5.0)](http://goodboydigital.com/)  [![npm package](https://img.shields.io/npm/v/npmtest-pixi.js.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-pixi.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-pixi.js.svg)](https://travis-ci.org/npmtest/node-npmtest-pixi.js)
+# npmtest-pixi.js
+
+#### basic test coverage for  [pixi.js (v4.5.0)](http://goodboydigital.com/)  [![npm package](https://img.shields.io/npm/v/npmtest-pixi.js.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-pixi.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-pixi.js.svg)](https://travis-ci.org/npmtest/node-npmtest-pixi.js)
+
 #### Pixi.js is a fast lightweight 2D library that works across all devices.
 
 [![NPM](https://nodei.co/npm/pixi.js.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/pixi.js)
@@ -32,25 +35,60 @@
 ```json
 
 {
-    "author": {
-        "name": "Mat Groves"
-    },
-    "bugs": {
-        "url": "https://github.com/pixijs/pixi.js/issues"
-    },
+    "name": "pixi.js",
+    "version": "4.5.0",
+    "description": "Pixi.js is a fast lightweight 2D library that works across all devices.",
+    "author": "Mat Groves",
     "contributors": [
-        {
-            "name": "Ivan Popelyshev"
-        },
-        {
-            "name": "Matt Karl"
-        },
-        {
-            "name": "Chad Engler"
-        },
-        {
-            "name": "Richard Davey"
-        }
+        "Ivan Popelyshev <ivan.popelyshev@gmail.com>",
+        "Matt Karl <matt@mattkarl.com>",
+        "Chad Engler <chad@pantherdev.com>",
+        "Richard Davey <rdavey@gmail.com>"
+    ],
+    "main": "./lib/index.js",
+    "homepage": "http://goodboydigital.com/",
+    "bugs": "https://github.com/pixijs/pixi.js/issues",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/pixijs/pixi.js.git"
+    },
+    "scripts": {
+        "clean": "rimraf dist lib && mkdirp dist && mkdir lib",
+        "prestart": "npm run clean",
+        "start": "parallelshell \"npm run watch\" \"npm run watch:lint\" \"npm run watch:lib\"",
+        "watch": "npm run dist -- --watch",
+        "watch:lib": "npm run lib -- --watch",
+        "watch:lint": "watch \"eslint scripts src test || exit 0\" src",
+        "test": "floss --path test/index.js",
+        "test:debug": "npm test -- --debug",
+        "prerenders": "npm --prefix scripts/renders i scripts/renders",
+        "renders": "electron scripts/renders",
+        "precoverage": "rimraf coverage",
+        "coverage": "npm test -- -c dist/pixi.js -s -h",
+        "lint": "eslint scripts src test --max-warnings 0",
+        "lintfix": "npm run lint --fix",
+        "prebuild": "npm run lint",
+        "build": "npm run dist",
+        "predist": "rimraf dist/**",
+        "dist": "pixify -d dist -n PIXI -o pixi -t babelify",
+        "prelib": "rimraf lib/**",
+        "lib": "babel src --out-dir lib -s",
+        "predocs": "rimraf docs/**",
+        "docs": "jsdoc -c scripts/jsdoc.conf.json -R README.md",
+        "publish:patch": "npm version patch && npm publish",
+        "publish:minor": "npm version minor && npm publish",
+        "publish:major": "npm version major && npm publish",
+        "postversion": "npm run clean && npm run build && npm run lib && npm test",
+        "postpublish": "git push && git push --tags"
+    },
+    "files": [
+        "dist/",
+        "lib/",
+        "CONTRIBUTING.md",
+        "LICENSE",
+        "package.json",
+        "README.md"
     ],
     "dependencies": {
         "bit-twiddle": "^1.0.2",
@@ -61,7 +99,6 @@
         "pixi-gl-core": "^1.0.3",
         "resource-loader": "^2.0.6"
     },
-    "description": "Pixi.js is a fast lightweight 2D library that works across all devices.",
     "devDependencies": {
         "babel-cli": "^6.18.0",
         "babel-plugin-static-fs": "^1.1.0",
@@ -82,67 +119,7 @@
         "rimraf": "^2.5.3",
         "watch": "^0.19.1"
     },
-    "directories": {},
-    "dist": {
-        "shasum": "4fffd66e4dd30b350ccae9965d2831bc885dee5b",
-        "tarball": "https://registry.npmjs.org/pixi.js/-/pixi.js-4.5.0.tgz"
-    },
-    "files": [
-        "dist/",
-        "lib/",
-        "CONTRIBUTING.md",
-        "LICENSE",
-        "package.json",
-        "README.md"
-    ],
-    "gitHead": "2fb5c997d0d9da01f5f59780b5f74194d603c5a6",
-    "homepage": "http://goodboydigital.com/",
-    "license": "MIT",
-    "main": "./lib/index.js",
-    "maintainers": [
-        {
-            "name": "doormat23"
-        },
-        {
-            "name": "englercj"
-        }
-    ],
-    "name": "pixi.js",
-    "optionalDependencies": {},
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/pixijs/pixi.js.git"
-    },
-    "scripts": {
-        "build": "npm run dist",
-        "clean": "rimraf dist lib && mkdirp dist && mkdir lib",
-        "coverage": "npm test -- -c dist/pixi.js -s -h",
-        "dist": "pixify -d dist -n PIXI -o pixi -t babelify",
-        "docs": "jsdoc -c scripts/jsdoc.conf.json -R README.md",
-        "lib": "babel src --out-dir lib -s",
-        "lint": "eslint scripts src test --max-warnings 0",
-        "lintfix": "npm run lint --fix",
-        "postpublish": "git push && git push --tags",
-        "postversion": "npm run clean && npm run build && npm run lib && npm test",
-        "prebuild": "npm run lint",
-        "precoverage": "rimraf coverage",
-        "predist": "rimraf dist/**",
-        "predocs": "rimraf docs/**",
-        "prelib": "rimraf lib/**",
-        "prerenders": "npm --prefix scripts/renders i scripts/renders",
-        "prestart": "npm run clean",
-        "publish:major": "npm version major && npm publish",
-        "publish:minor": "npm version minor && npm publish",
-        "publish:patch": "npm version patch && npm publish",
-        "renders": "electron scripts/renders",
-        "start": "parallelshell \"npm run watch\" \"npm run watch:lint\" \"npm run watch:lib\"",
-        "test": "floss --path test/index.js",
-        "test:debug": "npm test -- --debug",
-        "watch": "npm run dist -- --watch",
-        "watch:lib": "npm run lib -- --watch",
-        "watch:lint": "watch \"eslint scripts src test || exit 0\" src"
-    },
-    "version": "4.5.0"
+    "bin": {}
 }
 ```
 
